@@ -2,13 +2,40 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Title</title>
-    <form action="localhost:8080" method="get">
-        <input type="text" name="query"><br>
-        <input type="submit" value="Submit">
-    </form>
+    <title>expert-search</title>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
 </head>
 <body>
-
+<form action="#" method="get" name="queryForm">
+    <input type="text" name="query" id="query"><br>
+    <input type="submit" value="Submit" onclick="query()">
+</form>
 </body>
+<script>
+    function query() {
+        var formData = JSON.stringify($("#queryForm").serializeArray());
+        text = document.getElementsById("query").value
+        obj = {
+            "_source": ["name"],
+            "query": {
+                "match": {
+                    "text": text
+                }
+            }
+        }
+
+
+        console.log(formData)
+        $.ajax({
+            type: "get",
+            url: "localhost:9200",
+            data: obj,
+            success: function(data){
+                console.log(data)
+            },
+            dataType: "json",
+            contentType : "application/json"
+        });
+    }
+</script>
 </html>
