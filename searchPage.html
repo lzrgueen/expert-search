@@ -61,6 +61,7 @@
 
 
 <script>
+    var items = []
     function search() {
         // var formData = JSON.stringify($("#queryForm").serializeArray());
         text = document.getElementById("query").value
@@ -80,13 +81,13 @@
             contentType: 'application/json; charset=utf-8',
             success: function(data){
                 console.log(data)
-                lll =[]
+                items = []
                 for(var i = 0; i < data["hits"]["hits"].length; i++) {
                     // console.log(j)
-                    lll.push(data["hits"]["hits"][i]["_source"]["name"])
-
+                    // lll.push(data["hits"]["hits"][i]["_source"]["name"])
+                    items.push({text: data["hits"]["hits"][i]["_source"]["name"], count: data["hits]"]["hits"][i]["_score"]})
                 }
-                document.getElementById('aaron-family').innerHTML = lll.join("<br>");
+                // document.getElementById('aaron-family').innerHTML = lll.join("<br>");
             },
             data: JSON.stringify(obj),
             dataType: 'json'
@@ -107,17 +108,18 @@
             //intersectInc: use @default
             //circleColor: use @default
             data: {
-                items: [
-                    {text: "Java", count: "236"},
-                    {text: ".Net", count: "382"},
-                    {text: "Php", count: "170"},
-                    {text: "Ruby", count: "123"},
-                    {text: "D", count: "12"},
-                    {text: "Python", count: "170"},
-                    {text: "C/C++", count: "382"},
-                    {text: "Pascal", count: "10"},
-                    {text: "Something", count: "170"},
-                ],
+                items: items,
+                // items: [
+                //     // {text: "Java", count: "236"},
+                //     // {text: ".Net", count: "382"},
+                //     // {text: "Php", count: "170"},
+                //     // {text: "Ruby", count: "123"},
+                //     // {text: "D", count: "12"},
+                //     // {text: "Python", count: "170"},
+                //     // {text: "C/C++", count: "382"},
+                //     // {text: "Pascal", count: "10"},
+                //     // {text: "Something", count: "170"},
+                // ],
                 eval: function (item) {return item.count;},
                 classed: function (item) {return item.text.split(" ").join("");}
             },
