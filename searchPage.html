@@ -85,7 +85,7 @@
                 for(var i = 0; i < data["hits"]["hits"].length; i++) {
                     // console.log(j)
                     // lll.push(data["hits"]["hits"][i]["_source"]["name"])
-                    items.push({text: data["hits"]["hits"][i]["_source"]["name"].replace("_", " "), count: data["hits"]["hits"][i]["_score"]})
+                    items.push({text: data["hits"]["hits"][i]["_source"]["name"].replace("_", " "), count: data["hits"]["hits"][i]["_score"].toFixed(3)})
                 }
                 d3.select("svg").remove();
                 drawBubble(items)
