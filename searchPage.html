@@ -64,6 +64,7 @@
     function search() {
         // var formData = JSON.stringify($("#queryForm").serializeArray());
         text = document.getElementById("query").value
+        var bubble = null
         var obj = {
 
             "_source": ["name"],
@@ -86,7 +87,12 @@
                     // lll.push(data["hits"]["hits"][i]["_source"]["name"])
                     items.push({text: data["hits"]["hits"][i]["_source"]["name"], count: data["hits"]["hits"][i]["_score"]})
                 }
-                drawBubble(items)
+                if (bubble == null) {
+                    bubble = drawBubble(items)
+                }
+                else {
+                    bubble["data"]["items"] = items;
+                }
                 // document.getElementById('aaron-family').innerHTML = lll.join("<br>");
             },
             data: JSON.stringify(obj),
@@ -124,21 +130,6 @@
                 classed: function (item) {return item.text.split(" ").join("");}
             },
             plugins: [
-                {
-                    name: "central-click",
-                    options: {
-                        text: "(See more detail)",
-                        style: {
-                            "font-size": "12px",
-                            "font-style": "italic",
-                            "font-family": "Source Sans Pro, sans-serif",
-                            //"font-weight": "700",
-                            "text-anchor": "middle",
-                            "fill": "white"
-                        },
-                        attr: {dy: "65px"},
-                    }
-                },
                 {
                     name: "lines",
                     options: {
@@ -187,7 +178,7 @@
                     }
                 }]
         });
-
+        return bubbleChart;
     }
     // $(document).ready(function () {
     //     var bubbleChart = new d3.svg.BubbleChart({
