@@ -84,7 +84,7 @@
                 for(var i = 0; i < data["hits"]["hits"].length; i++) {
                     // console.log(j)
                     // lll.push(data["hits"]["hits"][i]["_source"]["name"])
-                    items.push({text: data["hits"]["hits"][i]["_source"]["name"], count: data["hits"]["hits"][i]["_score"]})
+                    items.push({text: data["hits"]["hits"][i]["_source"]["name"].replace("_", " "), count: data["hits"]["hits"][i]["_score"]})
                 }
                 drawBubble(items)
                 // document.getElementById('aaron-family').innerHTML = lll.join("<br>");
