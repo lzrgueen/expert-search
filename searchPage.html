@@ -1,53 +1,78 @@
 <!DOCTYPE html>
+
+
 <html lang="en">
+<head>
+    <title>Bootstrap Example</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <style>
+        .vcenter {
+            display: inline-block;
+            vertical-align: middle;
+            float: none;
+        }
+        .vertical-align {
+            display: flex;
+            align-items: center;
+        }
+    </style>
+</head>
+
+<body>
+<div class="container">
+    <div class="jumbotron">
+        <p class="diplay-4 text-center">Welcome to Expert Search, Have FUN!!</p>
+    </div>
+    <div class="row vertical-align">
+        <div class="col-lg-4 col-lg-offset-4 ">
+            <input class="form-control" type="text" name="query" id="query"><br>
+        </div>
+    </div>
+
+    <div class="row vertical-align">
+        <div class="col-md-12 text-center">
+            <button type="button" class="btn btn-success" onclick="search()">Find experts!</button>
+        </div>
+    </div>
+</div>
+</body>
+
+
 <script>
     function search() {
         // var formData = JSON.stringify($("#queryForm").serializeArray());
         text = document.getElementById("query").value
         var obj = {
 
-	            "_source": ["name"],
-	            "query": {
-	                "match": {
-	                    "text": text
-	                }
-	            }
-	        
+            "_source": ["name"],
+            "query": {
+                "match": {
+                    "text": text
+                }
+            }
+
         }
-		$.ajax({
+        $.ajax({
             url: "http://localhost:9200/expert/intro/_search",
             type: 'post',
             contentType: 'application/json; charset=utf-8',
             success: function(data){
-            	console.log(data)
-            	lll =[]
-            	for(var i = 0; i < data["hits"]["hits"].length; i++) {
-            		// console.log(j)
-            		lll.push(data["hits"]["hits"][i]["_source"]["name"])
+                console.log(data)
+                lll =[]
+                for(var i = 0; i < data["hits"]["hits"].length; i++) {
+                    // console.log(j)
+                    lll.push(data["hits"]["hits"][i]["_source"]["name"])
 
-            	}
-              	 document.getElementById('aaron-family').innerHTML = lll.join("<br>");
-
-
-            	// alert(list)
+                }
+                document.getElementById('aaron-family').innerHTML = lll.join("<br>");
             },
             data: JSON.stringify(obj),
             dataType: 'json'
         })
     }
-    // document.getElementById("form").submit(function(){search(); return false;});
 </script>
-<head>
-    <meta charset="UTF-8">
-    <title>expert-search</title>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
-</head>
-<body>
-<!-- <form action="#" method="post" name="queryForm" id="form"> -->
-    <input type="text" name="query" id="query"><br>
-    <input type="submit" value="Submit" onclick="search()">
-<!-- </form> -->
-<h2 id="aaron-family"></h2	>
-</body>
-
 </html>
