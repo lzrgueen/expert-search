@@ -87,13 +87,8 @@
                     // lll.push(data["hits"]["hits"][i]["_source"]["name"])
                     items.push({text: data["hits"]["hits"][i]["_source"]["name"].replace("_", " "), count: data["hits"]["hits"][i]["_score"]})
                 }
-                if (bubble == null) {
-                    bubble = drawBubble(items)
-                }
-                else {
-                    d3.select("svg").remove();
-                    bubble["data"]["items"] = items;
-                }
+                d3.select("svg").remove();
+                drawBubble(items)
             },
             data: JSON.stringify(obj),
             dataType: 'json'
