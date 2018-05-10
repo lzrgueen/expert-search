@@ -1,0 +1,108 @@
+[2018-05-11T00:15:10,792][INFO ][o.e.n.Node               ] [-mkC8km] stopping ...
+[2018-05-11T00:15:10,834][INFO ][o.e.n.Node               ] [-mkC8km] stopped
+[2018-05-11T00:15:10,834][INFO ][o.e.n.Node               ] [-mkC8km] closing ...
+[2018-05-11T00:15:10,841][INFO ][o.e.n.Node               ] [-mkC8km] closed
+[2018-05-11T00:19:07,938][INFO ][o.e.n.Node               ] [] initializing ...
+[2018-05-11T00:19:08,013][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] using [1] data paths, mounts [[/ (/dev/sda5)]], net usable_space [49gb], net total_space [105.1gb], types [ext4]
+[2018-05-11T00:19:08,013][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] heap size [989.8mb], compressed ordinary object pointers [true]
+[2018-05-11T00:19:08,022][INFO ][o.e.n.Node               ] node name [-mkC8km] derived from node ID [-mkC8kmATymfS--j2sAgMg]; set [node.name] to override
+[2018-05-11T00:19:08,022][INFO ][o.e.n.Node               ] version[6.2.4], pid[12023], build[ccec39f/2018-04-12T20:37:28.497551Z], OS[Linux/4.4.0-121-generic/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_171/25.171-b11]
+[2018-05-11T00:19:08,023][INFO ][o.e.n.Node               ] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=/tmp/elasticsearch.9jtct6vh, -XX:+HeapDumpOnOutOfMemoryError, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Des.path.home=/home/zli/expert-search/elasticsearch, -Des.path.conf=/home/zli/expert-search/elasticsearch/config]
+[2018-05-11T00:19:08,468][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [aggs-matrix-stats]
+[2018-05-11T00:19:08,468][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [analysis-common]
+[2018-05-11T00:19:08,468][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [ingest-common]
+[2018-05-11T00:19:08,468][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-expression]
+[2018-05-11T00:19:08,468][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-mustache]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-painless]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [mapper-extras]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [parent-join]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [percolator]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [rank-eval]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [reindex]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [repository-url]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [transport-netty4]
+[2018-05-11T00:19:08,469][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [tribe]
+[2018-05-11T00:19:08,470][INFO ][o.e.p.PluginsService     ] [-mkC8km] no plugins loaded
+[2018-05-11T00:19:10,346][INFO ][o.e.d.DiscoveryModule    ] [-mkC8km] using discovery type [zen]
+[2018-05-11T00:19:10,689][INFO ][o.e.n.Node               ] initialized
+[2018-05-11T00:19:10,689][INFO ][o.e.n.Node               ] [-mkC8km] starting ...
+[2018-05-11T00:19:10,780][INFO ][o.e.t.TransportService   ] [-mkC8km] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2018-05-11T00:19:10,789][WARN ][o.e.b.BootstrapChecks    ] [-mkC8km] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+[2018-05-11T00:19:13,824][INFO ][o.e.c.s.MasterService    ] [-mkC8km] zen-disco-elected-as-master ([0] nodes joined), reason: new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{dW-d_x2cRgSRNLsH74rKUw}{127.0.0.1}{127.0.0.1:9300}
+[2018-05-11T00:19:13,830][INFO ][o.e.c.s.ClusterApplierService] [-mkC8km] new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{dW-d_x2cRgSRNLsH74rKUw}{127.0.0.1}{127.0.0.1:9300}, reason: apply cluster state (from master [master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{dW-d_x2cRgSRNLsH74rKUw}{127.0.0.1}{127.0.0.1:9300} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)]])
+[2018-05-11T00:19:13,844][INFO ][o.e.h.n.Netty4HttpServerTransport] [-mkC8km] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2018-05-11T00:19:13,844][INFO ][o.e.n.Node               ] [-mkC8km] started
+[2018-05-11T00:19:13,970][INFO ][o.e.g.GatewayService     ] [-mkC8km] recovered [1] indices into cluster_state
+[2018-05-11T00:19:14,216][INFO ][o.e.c.r.a.AllocationService] [-mkC8km] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[scholars][2]] ...]).
+[2018-05-11T00:21:50,312][INFO ][o.e.n.Node               ] [-mkC8km] stopping ...
+[2018-05-11T00:21:50,488][INFO ][o.e.n.Node               ] [-mkC8km] stopped
+[2018-05-11T00:21:50,488][INFO ][o.e.n.Node               ] [-mkC8km] closing ...
+[2018-05-11T00:21:50,494][INFO ][o.e.n.Node               ] [-mkC8km] closed
+[2018-05-11T00:23:48,118][INFO ][o.e.n.Node               ] [] initializing ...
+[2018-05-11T00:23:48,174][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] using [1] data paths, mounts [[/ (/dev/sda5)]], net usable_space [49gb], net total_space [105.1gb], types [ext4]
+[2018-05-11T00:23:48,174][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] heap size [989.8mb], compressed ordinary object pointers [true]
+[2018-05-11T00:23:48,184][INFO ][o.e.n.Node               ] node name [-mkC8km] derived from node ID [-mkC8kmATymfS--j2sAgMg]; set [node.name] to override
+[2018-05-11T00:23:48,184][INFO ][o.e.n.Node               ] version[6.2.4], pid[12542], build[ccec39f/2018-04-12T20:37:28.497551Z], OS[Linux/4.4.0-121-generic/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_171/25.171-b11]
+[2018-05-11T00:23:48,184][INFO ][o.e.n.Node               ] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=/tmp/elasticsearch.ideLFYKG, -XX:+HeapDumpOnOutOfMemoryError, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Des.path.home=/home/zli/expert-search/elasticsearch, -Des.path.conf=/home/zli/expert-search/elasticsearch/config]
+[2018-05-11T00:23:48,651][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [aggs-matrix-stats]
+[2018-05-11T00:23:48,651][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [analysis-common]
+[2018-05-11T00:23:48,651][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [ingest-common]
+[2018-05-11T00:23:48,651][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-expression]
+[2018-05-11T00:23:48,651][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-mustache]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-painless]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [mapper-extras]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [parent-join]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [percolator]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [rank-eval]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [reindex]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [repository-url]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [transport-netty4]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [tribe]
+[2018-05-11T00:23:48,652][INFO ][o.e.p.PluginsService     ] [-mkC8km] no plugins loaded
+[2018-05-11T00:23:50,710][INFO ][o.e.d.DiscoveryModule    ] [-mkC8km] using discovery type [zen]
+[2018-05-11T00:23:51,076][INFO ][o.e.n.Node               ] initialized
+[2018-05-11T00:23:51,077][INFO ][o.e.n.Node               ] [-mkC8km] starting ...
+[2018-05-11T00:23:51,172][INFO ][o.e.t.TransportService   ] [-mkC8km] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2018-05-11T00:23:51,181][WARN ][o.e.b.BootstrapChecks    ] [-mkC8km] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+[2018-05-11T00:23:54,213][INFO ][o.e.c.s.MasterService    ] [-mkC8km] zen-disco-elected-as-master ([0] nodes joined), reason: new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{bd9TfhrHTPaxaCYkZgdezA}{127.0.0.1}{127.0.0.1:9300}
+[2018-05-11T00:23:54,218][INFO ][o.e.c.s.ClusterApplierService] [-mkC8km] new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{bd9TfhrHTPaxaCYkZgdezA}{127.0.0.1}{127.0.0.1:9300}, reason: apply cluster state (from master [master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{bd9TfhrHTPaxaCYkZgdezA}{127.0.0.1}{127.0.0.1:9300} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)]])
+[2018-05-11T00:23:54,236][INFO ][o.e.h.n.Netty4HttpServerTransport] [-mkC8km] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2018-05-11T00:23:54,236][INFO ][o.e.n.Node               ] [-mkC8km] started
+[2018-05-11T00:23:54,376][INFO ][o.e.g.GatewayService     ] [-mkC8km] recovered [1] indices into cluster_state
+[2018-05-11T00:23:54,605][INFO ][o.e.c.r.a.AllocationService] [-mkC8km] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[scholars][0]] ...]).
+[2018-05-11T00:25:27,913][INFO ][o.e.n.Node               ] [-mkC8km] stopping ...
+[2018-05-11T00:25:28,064][INFO ][o.e.n.Node               ] [-mkC8km] stopped
+[2018-05-11T00:25:28,065][INFO ][o.e.n.Node               ] [-mkC8km] closing ...
+[2018-05-11T00:25:28,070][INFO ][o.e.n.Node               ] [-mkC8km] closed
+[2018-05-11T00:54:13,889][INFO ][o.e.n.Node               ] [] initializing ...
+[2018-05-11T00:54:13,970][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] using [1] data paths, mounts [[/ (/dev/sda5)]], net usable_space [48.7gb], net total_space [105.1gb], types [ext4]
+[2018-05-11T00:54:13,970][INFO ][o.e.e.NodeEnvironment    ] [-mkC8km] heap size [989.8mb], compressed ordinary object pointers [true]
+[2018-05-11T00:54:13,980][INFO ][o.e.n.Node               ] node name [-mkC8km] derived from node ID [-mkC8kmATymfS--j2sAgMg]; set [node.name] to override
+[2018-05-11T00:54:13,981][INFO ][o.e.n.Node               ] version[6.2.4], pid[4601], build[ccec39f/2018-04-12T20:37:28.497551Z], OS[Linux/4.4.0-121-generic/amd64], JVM[Oracle Corporation/Java HotSpot(TM) 64-Bit Server VM/1.8.0_171/25.171-b11]
+[2018-05-11T00:54:13,981][INFO ][o.e.n.Node               ] JVM arguments [-Xms1g, -Xmx1g, -XX:+UseConcMarkSweepGC, -XX:CMSInitiatingOccupancyFraction=75, -XX:+UseCMSInitiatingOccupancyOnly, -XX:+AlwaysPreTouch, -Xss1m, -Djava.awt.headless=true, -Dfile.encoding=UTF-8, -Djna.nosys=true, -XX:-OmitStackTraceInFastThrow, -Dio.netty.noUnsafe=true, -Dio.netty.noKeySetOptimization=true, -Dio.netty.recycler.maxCapacityPerThread=0, -Dlog4j.shutdownHookEnabled=false, -Dlog4j2.disable.jmx=true, -Djava.io.tmpdir=/tmp/elasticsearch.kx5VIXhm, -XX:+HeapDumpOnOutOfMemoryError, -XX:+PrintGCDetails, -XX:+PrintGCDateStamps, -XX:+PrintTenuringDistribution, -XX:+PrintGCApplicationStoppedTime, -Xloggc:logs/gc.log, -XX:+UseGCLogFileRotation, -XX:NumberOfGCLogFiles=32, -XX:GCLogFileSize=64m, -Des.path.home=/home/zli/expert-search/elasticsearch, -Des.path.conf=/home/zli/expert-search/elasticsearch/config]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [aggs-matrix-stats]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [analysis-common]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [ingest-common]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-expression]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-mustache]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [lang-painless]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [mapper-extras]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [parent-join]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [percolator]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [rank-eval]
+[2018-05-11T00:54:14,416][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [reindex]
+[2018-05-11T00:54:14,417][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [repository-url]
+[2018-05-11T00:54:14,417][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [transport-netty4]
+[2018-05-11T00:54:14,417][INFO ][o.e.p.PluginsService     ] [-mkC8km] loaded module [tribe]
+[2018-05-11T00:54:14,417][INFO ][o.e.p.PluginsService     ] [-mkC8km] no plugins loaded
+[2018-05-11T00:54:16,362][INFO ][o.e.d.DiscoveryModule    ] [-mkC8km] using discovery type [zen]
+[2018-05-11T00:54:16,765][INFO ][o.e.n.Node               ] initialized
+[2018-05-11T00:54:16,766][INFO ][o.e.n.Node               ] [-mkC8km] starting ...
+[2018-05-11T00:54:16,860][INFO ][o.e.t.TransportService   ] [-mkC8km] publish_address {127.0.0.1:9300}, bound_addresses {[::1]:9300}, {127.0.0.1:9300}
+[2018-05-11T00:54:16,872][WARN ][o.e.b.BootstrapChecks    ] [-mkC8km] max virtual memory areas vm.max_map_count [65530] is too low, increase to at least [262144]
+[2018-05-11T00:54:19,906][INFO ][o.e.c.s.MasterService    ] [-mkC8km] zen-disco-elected-as-master ([0] nodes joined), reason: new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{p97owVknTGqJG089WHSgTQ}{127.0.0.1}{127.0.0.1:9300}
+[2018-05-11T00:54:19,910][INFO ][o.e.c.s.ClusterApplierService] [-mkC8km] new_master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{p97owVknTGqJG089WHSgTQ}{127.0.0.1}{127.0.0.1:9300}, reason: apply cluster state (from master [master {-mkC8km}{-mkC8kmATymfS--j2sAgMg}{p97owVknTGqJG089WHSgTQ}{127.0.0.1}{127.0.0.1:9300} committed version [1] source [zen-disco-elected-as-master ([0] nodes joined)]])
+[2018-05-11T00:54:19,924][INFO ][o.e.h.n.Netty4HttpServerTransport] [-mkC8km] publish_address {127.0.0.1:9200}, bound_addresses {[::1]:9200}, {127.0.0.1:9200}
+[2018-05-11T00:54:19,924][INFO ][o.e.n.Node               ] [-mkC8km] started
+[2018-05-11T00:54:20,064][INFO ][o.e.g.GatewayService     ] [-mkC8km] recovered [1] indices into cluster_state
+[2018-05-11T00:54:20,339][INFO ][o.e.c.r.a.AllocationService] [-mkC8km] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[scholars][3]] ...]).
