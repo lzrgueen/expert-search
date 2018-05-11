@@ -106,3 +106,7 @@
 [2018-05-11T00:54:19,924][INFO ][o.e.n.Node               ] [-mkC8km] started
 [2018-05-11T00:54:20,064][INFO ][o.e.g.GatewayService     ] [-mkC8km] recovered [1] indices into cluster_state
 [2018-05-11T00:54:20,339][INFO ][o.e.c.r.a.AllocationService] [-mkC8km] Cluster health status changed from [RED] to [YELLOW] (reason: [shards started [[scholars][3]] ...]).
+[2018-05-11T01:06:11,334][INFO ][o.e.n.Node               ] [-mkC8km] stopping ...
+[2018-05-11T01:06:11,363][INFO ][o.e.n.Node               ] [-mkC8km] stopped
+[2018-05-11T01:06:11,363][INFO ][o.e.n.Node               ] [-mkC8km] closing ...
+[2018-05-11T01:06:11,369][INFO ][o.e.n.Node               ] [-mkC8km] closed
