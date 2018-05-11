@@ -1,0 +1,80 @@
+Data mining: concepts and techniques
+
+Mining frequent patterns without candidate generation
+
+Data mining: an overview from a database perspective
+
+E cient and E ective Clustering Methods for Spatial Data Mining
+
+Prefixspan: Mining sequential patterns efficiently by prefix-projected pattern growth
+
+Mining frequent patterns without candidate generation: A frequent-pattern tree approach
+
+gspan: Graph-based substructure pattern mining
+
+-A Framework for Clustering Evolving Data Streams
+
+Discovery of multiple-level association rules from large databases
+
+CMAR: Accurate and efficient classification based on multiple class-association rules
+
+Mining concept-drifting data streams using ensemble classifiers
+
+Maintenance of discovered association rules in large databases: An incremental updating technique
+
+Mining sequential patterns by pattern-growth: The prefixspan approach
+
+Frequent pattern mining: current status and future directions
+
+Closet: An efficient algorithm for mining frequent closed itemsets.
+
+Trajectory clustering: a partition-and-group framework
+
+FreeSpan: frequent pattern-projected sequential pattern mining
+
+CPAR: Classification based on predictive association rules
+
+Discovery of spatial association rules in geographic information databases
+
+CloSpan: Mining: Closed sequential patterns in large datasets
+
+Data Mining: Concepts and Techniques provides the concepts and techniques in processing gathered data or information, which will be used in various applications. Specifically, it explains data mining and the tools used in discovering knowledge from the collected data …
+
+Mining frequent patterns in transaction databases, time-series databases, and many other kinds of databases has been studied popularly in data mining research. Most of the previous studies adopt an Apriori-like candidate set generation-and-test approach. However …
+
+Mining information and knowledge from large databases has been recognized by many researchers as a key research topic in database systems and machine learning, and by many industrial companies as an important area with an opportunity of major revenues …
+
+Spatial data mining is the discovery of interesting relationships and characteristics that may exist implicitly in spatial databases. In this paper, we explore whether clustering methods have a role to play in spatial data mining. To this end, we develop a new clustering method …
+
+Sequential pattern mining is an important data mining problem with broad applications. It is challenging since one may need to examine a combinatorially explosive number of possible subsequence patterns. Most of the previously developed sequential pattern mining methods …
+
+Mining frequent patterns in transaction databases, time-series databases, and many other kinds of databases has been studied popularly in data mining research. Most of the previous studies adopt an Apriori-like candidate set generation-and-test approach. However …
+
+We investigate new approaches for frequent graph-based pattern mining in graph datasets and propose a novel algorithm called gSpan (graph-based substructure pattern mining), which discovers frequent substructures without candidate generation. gSpan builds a new …
+
+This chapter discusses a framework for clustering evolving data streams. The clustering problem is a difficult problem for the data stream domain. This is because the large volumes of data arriving in a stream render most traditional algorithms too inefficient. In recent years …
+
+Previous studies on mining association rules find rules at single concept level, however, mining association rules at multiple concept levels may lead to the discovery of more specific and concrete knowledge from data. In this study, a top-down progressive deepening …
+
+Previous studies propose that associative classification has high classification accuracy and strong flexibility at handling unstructured data. However, it still suffers from the huge set of mined rules and sometimes biased classification or overfitting since the classification is …
+
+Recently, mining data streams with concept drifts for actionable insights has become an important and challenging task for a wide range of applications including credit card fraud protection, target marketing, network intrusion detection, etc. Conventional knowledge …
+
+An incremental updating technique is developed for maintenance of the association rules discovered by database mining. There have been many studies on efficient discovery of association rules in large databases. However, it is nontrivial to maintain such discovered …
+
+Sequential pattern mining is an important data mining problem with broad applications. However, it is also a difficult problem since the mining may have to generate or examine a combinatorially explosive number of intermediate subsequences. Most of the previously …
+
+Frequent pattern mining has been a focused theme in data mining research for over a decade. Abundant literature has been dedicated to this research and tremendous progress has been made, ranging from efficient and scalable algorithms for frequent itemset mining in …
+
+Association mining may often derive an undesirably large set of frequent itemsets and association rules. Recent studies have proposed an interesting alternative: mining frequent closed itemsets and their corresponding rules, which has the same power as association …
+
+Existing trajectory clustering algorithms group similar trajectories as a whole, thus discovering common trajectories. Our key observation is that clustering trajectories as a whole could miss common sub-trajectories. Discovering common sub-trajectories is very …
+
+Sequential pattern mining is an important data mining problem with broad applications. It is also a difficult problem since one may need to examine a combinatorially explosive number of possible subsequence patterns. Most of the previously developed sequential pattern …
+
+Recent studies in data mining have proposed a new classification approach, called associative classification, which, according to several reports, such as [7, 6], achieves higher classification accuracy than traditional classification approaches such as C4. 5. However …
+
+Spatial data mining, ie, discovery of interesting, implicit knowledge in spatial databases, is an important task for understanding and use of spatial data-and knowledge-bases. In this paper, an efficient method for mining strong spatial association rules in geographic …
+
+Previous sequential pattern mining algorithms mine the full set of frequent subsequences satisfying a min-sup threshold in a sequence database. However, since a frequent long sequence contains a combinatorial number of frequent subsequences, such mining will …
+

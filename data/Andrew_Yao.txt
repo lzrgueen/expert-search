@@ -1,0 +1,80 @@
+On the security of public key protocols
+
+Protocols for secure computations
+
+How to generate and exchange secrets
+
+Theory and application of trapdoor functions
+
+Some complexity questions related to distributive computing (preliminary report)
+
+Probabilistic computations: Toward a unified measure of complexity
+
+On Constructing Minimum Spanning Trees in k-Dimensional Spaces and Related Problems
+
+Separating the polynomial-time hierarchy by oracles
+
+Optimal expected-time algorithms for closest point problems
+
+Resource constrained scheduling as generalized bin packing
+
+Should tables be sorted?
+
+Storing a sparse table
+
+New algorithms for bin packing
+
+On random 2–3 trees
+
+An almost optimal algorithm for unbounded searching
+
+An 0 (| E| loglog| V|) algorithm for finding minimum spanning trees
+
+Lower bounds by probabilistic arguments
+
+A lower bound to finding convex hulls
+
+Informational complexity and the direct sum problem for simultaneous message complexity
+
+Quantum cryptography with imperfect apparatus
+
+Recently the use of public key encryption to provide secure network communication has received considerable attention. Such public key systems are usually effective against passive eavesdroppers, who merely tap the lines and try to decipher the message. It has …
+
+The author investigates the following problem: Suppose m people wish to compute the value of a function f (x 1, x 2, x 3,..., xm), which is an integer-valued function of m integer variables xi of bounded range. Assume initially person Pi knows the value of xi and no other x's. Is it …
+
+In this paper we introduce a new tool for controlling the knowledge transfer process in cryptographic protocol design. It is applied to solve a general class of problems which include most of the two-party cryptographic problems in the literature. Specifically, we show …
+
+The purpose of this paper is to introduce a new information theory and explore its appplications. Using modern computational complexity, we study the notion of information that can be accessed through a feasible computation. In Part 1 of this paper, we lay the …
+
+Abstract Let M &equil;{0, 1, 2,..., m—1}, N &equil;{0, 1, 2,..., n—1}, and f: M× N→{0, 1} a Boolean-valued function. We will be interested in the following problem and its related questions. Let i &egr; M, j &egr; N be integers known only to two persons P 1 and P 2 …
+
+These two approaches lead naturally to two different definitions of intrinsic complexity of a problem, which we term the distributional complexity and the randomized complexity, respectively.(Precise definitions and examples will be given in Sections 2 and 3.) To solidify …
+
+The problem of finding a minimum spanning tree connecting n points in ak-dimensional space is discussed under three common distance metrics: Euclidean, rectilinear, and L_∞. By employing a subroutine that solves the post office problem, we show that, for fixed …
+
+We present exponential lower bounds on the size of depth-k Boolean circuits for computing certain functions. These results imply that there exists an oracle set A such that, relative to A, all the levels in the polynomial-time hierarchy are distinct, ie, ΣkP, A is properly contained in …
+
+Geometric closest potnt problems deal with the proxLmity relationships in k-dimensional point sets. Examples of closest point problems include building minimum spanning trees, nearest neighbor searching, and triangulation constructmn Shamos and Hoey [17] have …
+
+This problem is a special case of the general m~ lti~ ro~~ ssor scheduling problem with resource constraints [4, 51. We may think of the x EL tasks to be executed, the partial order as a precedence conthe functions R, as giving resource usages for the tasks s equal 1). The …
+
+Optmaahty questions are examined m the following information retrieval problem. Given a set S of n keys, store them so that queries of the form," Is x ES?" can be answered quickly It is shown that ma rather general model including all the commonly used schemes,[lg (n+ I)] …
+
+The problem of storing and searching large sparse tables is ubiquitous in computer science. The standard technique for storing such tables is hashing, but hashing has poor worst-case performance. We propose a good worst-case method for storing a static table of n entries …
+
+In the bin-packing problem a list L of n numbers are to be packed into unit-capacity bins. For any algorithm S, let r (S) be the maximum ratio S (L)/L* for large L*, where S (L) denotes the number of bins used by S and L* denotes the minimum number needed. An on-line &Ogr;(n …
+
+Balanced tree structures are often used in the organization of information. One attractive scheme, called "2-3 trees", was introduced by J. Hopcroft [1] [5, pp. 468-471]. Some interesting questions concerning 2-3 trees have been raised [3]. In this paper we present a partial solution …
+
+Page 1. srm-pm-1679 November 1975 AN ALMOST OPTIMAL ALGORTTHM FOR UNBOUNDEDSIZARCHING Jon Louis Bentley* Department of Computer Science University of North CarolinaChapel Hill, North Carolina 27514 and Stanford Linear Accelerator Center Stanford University …
+
+Given a connected, undirected graph G=(V, E) and af~ tion c which assigns a cost c (e) to every edge c EE, it is desired to find a spa” ning we T for G such that Z&c (e) is miniimal. la this note we describe an algorithm which finds a minimum spanning tree (MST) in O …
+
+The purpose of this paper is to resolve several open problems in the current literature on Boolean circuits, communication complexity, and hashing functions. These lower bound results share the common feature that their proofs utilize probabilistic arguments in an …
+
+Gwen a set S of n distinct points {(x,, y,)[O _< l< n}, the convex hull problem is to determine the vertices of the convex hull H (S). All the known algorithms for solving this problem have a worst case runmng time of cn log n or higher and employ only quadratic tests, that is, tests of …
+
+Given m copies of the same problem, does it take m times the amount of resources to solve these m problems? This is the direct sum problem, a fundamental question that has been studied in many computational models. We study this question in the simultaneous message …
+
+Quantum key distribution, first proposed by CH Bennett and G. Brassard (1984), provides a possible key distribution scheme whose security depends only on the quantum laws of physics. So far the protocol has been proved secure even under channel noise and detector …
+

@@ -1,0 +1,80 @@
+The nesC language: A holistic approach to networked embedded systems
+
+TinyOS: An operating system for sensor networks
+
+Phytoremediation of soil metals
+
+SEDA: an architecture for well-conditioned, scalable internet services
+
+Towards robust distributed systems
+
+A First Step Towards Automated Detection of Buffer Overrun Vulnerabilities.
+
+A secure environment for untrusted helper applications: Confining the wily hacker
+
+Cluster-based scalable network services
+
+Pinpoint: Problem determination in large, dynamic internet services
+
+Adapting to network and client variability via on-demand dynamic distillation
+
+The Emergence of Networking Abstractions and Techniques in TinyOS.
+
+Adapting to network and client variation using infrastructural proxies: Lessons and perspectives
+
+Proteus: A high-performance parallel-architecture simulator
+
+Hood: a neighborhood abstraction for sensor networks
+
+Scattercast: an architecture for internet broadcast distribution as an infrastructure service
+
+Path-based failure and evolution management
+
+The Ninja architecture for robust Internet-scale systems and services
+
+The case for technology in developing regions
+
+CAP twelve years later: How the" rules" have changed
+
+WiLDNet: Design and Implementation of High Performance WiFi Based Long Distance Networks.
+
+We present nesC, a programming language for networked embedded systems that represent a new design space for application developers. An example of a networked embedded system is a sensor network, which consists of (potentially) thousands of tiny …
+
+We present TinyOS, a flexible, application-specific operating system for sensor networks, which form a core component of ambient intelligence systems. Sensor networks consist of (potentially) thousands of tiny, low-power nodes, each of which execute concurrent, reactive …
+
+The phytoremediation of metal-contaminated soils offers a low-cost method for soil remediation and some extracted metals may be recycled for value. Both the phytoextraction of metals and the phytovolatilization of Se or Hg by plants offer great promise for commercial …
+
+We propose a new design for highly concurrent Internet services, which we call the staged event-driven architecture (SEDA). SEDA is intended to support massive concurrency demands and simplify the construction of well-conditioned services. In SEDA, applications …
+
+Dr. Eric A. Brewer Professor, UC Berkeley Co-Founder & Chief Scientist, Inktomi … Company Overview ◆“INKT” on NASDAQ ◆Founded 1996 out of UC Berkeley ◆~700 Employees … Applications ◆Search Technology ◆Network Products ◆Online Shopping ◆Wireless Systems …
+
+We describe a new technique for finding potential buffer overrun vulnerabilities in security-critical C code. The key to success is to use static analysis: we formulate detection of buffer overruns as an integer range analysis problem. One major advantage of static analysis is …
+
+Many popular programs, such as Netscape, use untrusted helper applications to process data from the network. Unfortunately, the unauthenticated network data they interpret could well have been created by an adversary, and the helper applications are usually too …
+
+We identifit three fundamental requirements for scalable network services: incremental scalability and oveflow growth provisioning, 24x7 availability through fault masking, and costeffectiveness. We argue that clusters of commodity workstations interconnected by a …
+
+Traditional problem determination techniques rely on static dependency models that are difficult to generate accurately in today's large, distributed, and dynamic application environments such as e-commerce systems. We present a dynamic analysis methodology …
+
+The explosive growth of the Internet and the proliferation of smart cellular phones and handheld wireless devices is widening an already large gap between Internet clients. Clients vary in their hardware resources, software sophistication, and quality of connectivity …
+
+The constraints of sensor networks, an emerging area of network research, require new approaches in system design. We study the evolution of abstractions and techniques in TinyOS, a popular sensor network operating system. Examining CVS repositories of several …
+
+Today's Internet clients vary widely with respect to both hardware and software properties: screen size, color depth, effective bandwidth, processing power, and the ability to handle different data formats. The order-of-magnitude span of this variation is too large to hide at the …
+
+PROTEUS is a high-performance simulator for MIMD multiprocessors. It is fast, accurate, and flexible: it is one to two orders of magnitude faster than comparable simulators, it can reproduce results from real multiprocessors, and it is easily configured to simulate a wide …
+
+This paper proposes a neighborhood programming abstraction for sensor networks, wherein a node can identify a subset of nodes around it by a variety of criteria and share state with those nodes. This abstraction allows developers to design distributed algorithms in terms of …
+
+Instead of relying on global multicast capability at the network layer, scattercast performs explicit application level multicasting. The collection of SC X s participating in a session coordinate with each other to build an application-level multicast distribution tree. Sources …
+
+We present a new approach to managing failures and evolution in large, complex distributed systems using runtime paths. We use the paths that requests follow as they move through the system as our core abstraction, and our “macro” approach focuses on component …
+
+The Ninja project seeks to enable the broad innovation of robust, scalable, distributed Internet services, and to permit the emerging class of extremely heterogeneous devices to seamlessly access these services. Our architecture consists of four basic elements: bases …
+
+Alongside good governance, technology is considered among the greatest enablers for improved quality of life. However, the majority of its benefits have been concentrated in industrialized nations and therefore limited to a fraction of the world's population. We believe …
+
+The CAP theorem asserts that any networked shared-data system can have only two of three desirable properties. However, by explicitly handling partitions, designers can optimize consistency and availability, thereby achieving some trade-off of all three. The featured Web …
+
+Abstract WiFi-based Long Distance (WiLD) networks with links as long as 50-100 km have the potential to provide connectivity at substantially lower costs than traditional approaches. However, real-world deployments of such networks yield very poor end-to-end performance …
+

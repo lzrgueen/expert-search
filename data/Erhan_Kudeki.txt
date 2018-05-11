@@ -1,0 +1,80 @@
+Radar interferometric imaging of field‐aligned plasma irregularities in the equatorial electrojet
+
+Estimating daytime vertical ExB drift velocities in the equatorial F‐region using ground‐based magnetometer observations
+
+Frequency domain interferometry: A high resolution radar technique for studies of atmospheric turbulence
+
+Postsunset vortex in equatorial F‐region plasma drifts and implications for bottomside spread‐F
+
+Equatorial spread-F initiation: Post-sunset vortex, thermospheric winds, gravity waves
+
+High resolution observations of 150 km echoes at Jicamarca
+
+A new approach in incoherent scatter F region E× B drift measurements at Jicamarca
+
+The Condor equatorial electrojet campaign: Radar results
+
+Aspect sensitivity of equatorial electrojet irregularities and theoretical implications
+
+Radar interferometric imaging studies of long‐duration meteor echoes observed at Jicamarca
+
+A poststatistics steering technique for MST radar applications
+
+Theory of spectral asymmetries and nonlinear currents in the equatorial electrojet
+
+Plasma wave excitation on meteor trails in the equatorial electrojet
+
+Systematic errors in radar wind estimation: Implications for comparative measurements
+
+Dynamics of the equatorial mesosphere observed using the Jicamarca MST radar during June and August 1987
+
+Mean winds and momentum fluxes over Jicamarca, Peru, during June and August 1987
+
+Brightness distribution of midlatitude E region echoes detected at the Chung‐Li VHF radar
+
+50 MHz radar observations of mid‐latitude E‐region irregularities at Camp Santiago, Puerto Rico
+
+Comparison of time‐and frequency‐domain techniques for wind velocity estimation using multiple‐receiver MF radar data
+
+Radar interferometer observations of mesospheric echoing layers at Jicamarca
+
+A multiple-receiver radar technique for imaging the spatial distribution of ionospheric plasma irregularities is introduced and demonstrated with equatorial electrojet data obtained at the Jicamarca Radio Observatory. The images obtained with a few seconds time resolution …
+
+The daytime equatorial electrojet is a narrow band of enhanced eastward current flowing in the 100 to 120 km altitude region within±2 latitude of the dip equator. A unique way of determining the daytime strength of the electrojet is to observe the difference in the …
+
+A new radar technique suitable for high resolution studies of narrow scattering layers in the atmosphere is introduced. The positions of the layers within the radar scattering volume are deduced from the phase differences between radar returns at two distinct transmitter …
+
+Recent high-resolution incoherent scatter drift measurements conducted at Jicamarca during solar minimum conditions indicate that a vortical plasma flow pattern accompanies the well known prereversal enhancement events observed in the equatorial F region. The …
+
+We present experimental evidence and modeling results which indicate that eastward thermospheric wind is the primary controlling factor of equatorial spread-F initiation in the post-sunset ionosphere. Eastward wind-driven Pedersen currents are able to polarize F …
+
+High resolution soundings of equatorial upper E-region echoes at Jicamarca exhibit gravity wave modulated signal intensity distributions and Doppler velocities corresponding to vertical plasma drifts. A gravity wave wind driven interchange instability is suggested as a …
+
+Since 1996 incoherent scatter F region plasma drift measurements at Jicamarca have been implemented using a new signal processing approach replacing the traditional pulse-to-pulse correlation method. The new method, based on Doppler spectrum estimation and …
+
+A review of the experimental and theoretical background to the Condor equatorial electrojet campaign is followed by the presentation and discussion of VHF radar interferometer and HF radar backscatter data taken concurrently with two rocket in situ experiments reported in …
+
+We used a multi baseline 50-MHz radar interferometer at the Jicamarca Radio Observatory to study the dependence of echo strength on the aspect angle, the angle of arrival relative to normal to the geomagnetic field. We observed rms values of this angle in the range 0.1–0.4 …
+
+A large number of long-duration (≥ 15 s) meteor echoes were detected at the Jicamarca Radio Observatory on two nights in early August 1990 during an evening electrojet experiment. Using an interferometric imaging technique, we were able to measure a zonal …
+
+A new interferometric data analysis procedure equivalent to software beam synthesis and scanning is introduced. It is shown that the self-and cross-spectra of interferometric multiple-receiver signals can be linearly combined to obtain the self-and cross-spectra of radar …
+
+The spectral up-down asymmetry of type 1 echoes returned from the equatorial electrojet irregularities is shown to be a consequence of the nonlinear development of the horizontally propagating large scale primary waves which dominate the k spectrum of the electrojet …
+
+The unusual properties of meteor echoes recently observed at Jicamarca [Chapin and Kudeki, 1994] are attributed to the growth and propagation of plasma irregularities along meteor trails deposited within the equatorial electrojet. It is suggested that trails at electrojet …
+
+Abstract SA, IDI, and DBS horizontal wind estimators are examined and demonstrated to share common biases under inhomogeneous flow field conditions. The biases can reach magnitudes of several tens of meters per second at mesospheric heights, contaminate …
+
+The Jicamarca MST radar was used in two campaigns during June and August 1987 to measure wave influences, flow variability, and mean structure in the equatorial stratosphere and mesosphere. This paper presents observations of motions and momentum fluxes in the …
+
+Data from the mesosphere-stratosphere-troposphere (MST) radar at Jicamarca, Peru, together with other available data, are used to diagnose the mean structure of winds and gravity-wave momentum fluxes from the surface to 90 km during two ten-day campaigns in …
+
+A three-sensor interferometry method is employed to parameterize the brightness distribution of VHF radar returns from midlatitude E region plasma irregularities monitored by the Chung-Li radar in Taiwan. The angular half-width of the brightness distribution in the …
+
+A 50 MHz radar interferometer was used near Salinas, Puerto Rico, to probe the meter-scale E-region plasma density irregularities during two campaigns conducted in 1998. During the February–April period E-region echoing layers were primarily observed between 90 and …
+
+Multiple-receiver MF radar returns from the mesosphere are used to investigate the relationship between spaced antenna (SA), radar interferometry (RI), and imaging Doppler interferometry (IDI) wind estimation techniques. Our results show that frequency-domain (RI …
+
+VHF radar observations at Jicamarca show that the most intense mesospheric echoes at the equator are returned from thin horizontal layers with lifetimes ranging from tens of minutes to many hours. A few such layers may be present at a time, typically separated in altitude by a …
+

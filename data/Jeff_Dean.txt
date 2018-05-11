@@ -1,0 +1,80 @@
+Distributed representations of words and phrases and their compositionality
+
+Distilling the knowledge in a neural network
+
+Devise: A deep visual-semantic embedding model
+
+Designs, lessons and advice from building large distributed systems
+
+Methods and apparatus for ranking documents
+
+Outrageously large neural networks: The sparsely-gated mixture-of-experts layer
+
+Software engineering advice from building large-scale distributed systems
+
+Resilient modulus of clay subgrades stabilized with lime, class C fly ash, and cement kiln dust for pavement design
+
+Achieving rapid response times in large online services
+
+A draft sequence of the rice genome (Oryza sativa L. ssp. japonica)
+
+System and methods for automatically creating lists
+
+LevelDB
+
+The swift java compiler: design and implementation
+
+The Top 10 fungal pathogens in molecular plant pathology
+
+Handling large datasets at google: Current systems and future directions
+
+Identification of children at very low risk of clinically-important brain injuries after head trauma: a prospective cohort study
+
+LevelDB
+
+Proteolytic activity of human osteoclast cathepsin K expression, purification, activation, and substrate identification
+
+Dispersive clay embankment erosion-a case history
+
+Selection and evaluation of heat-resistant alloys for SOFC interconnect applications
+
+The recently introduced continuous Skip-gram model is an efficient method for learning high-quality distributed vector representations that capture a large number of precise syntactic and semantic word relationships. In this paper we present several improvements that make …
+
+A very simple way to improve the performance of almost any machine learning algorithm is to train many different models on the same data and then to average their predictions. Unfortunately, making predictions using a whole ensemble of models is cumbersome and …
+
+Modern visual recognition systems are often limited in their ability to scale to large numbers of object categories. This limitation is in part due to the increasing difficulty of acquiring sufficient training data in the form of labeled images as the number of object categories …
+
+Typical first year for a new cluster:~ 0.5 overheating (power down most machines in< 5 mins,~ 1-2 days to recover)~ 1 PDU failure (~ 500-1000 machines suddenly disappear,~ 6 hours to come back)~ 1 rack-move (plenty of warning,~ 500-1000 machines powered …
+
+Methods and apparatus are described for scoring documents in response, in part, to parameters related to the document, source, and/or cluster score. Methods and apparatus are also described for scoring a cluster in response, in part, to parameters related to …
+
+The capacity of a neural network to absorb information is limited by its number of parameters. Conditional computation, where parts of the network are active on a per-example basis, has been proposed in theory as a way of dramatically increasing model …
+
+Typical first year for a new cluster:~ 0.5 overheating (power down most machines in< 5 mins,~ 1-2 days to recover)~ 1 PDU failure (~ 500-1000 machines suddenly disappear,~ 6 hours to come back)~ 1 rack-move (plenty of warning,~ 500-1000 machines powered …
+
+The effects of different percentages of one traditional additive—hydrated lime—and two by-products—Class C fly ash (CFA) and cement kiln dust (CKD)—on the resilient modulus (Mr) of four different clay subgrades were investigated. It was found that at lower application rates …
+
+Page 1. Achieving Rapid Response Times in Large Online Services Jeff Dean Google Fellowjeff@google.com Monday, March 26, 2012 Page 2. Faster Is Better Monday, March 26, 2012 Page3. Faster Is Better Monday, March 26, 2012 Page 4. Large Fanout Services Frontend Web Server …
+
+The genome of the japonica subspecies of rice, an important cereal and model monocot, was sequenced and assembled by whole-genome shotgun sequencing. The assembled sequence covers 93% of the 420-megabase genome. Gene predictions on the assembled …
+
+A system automatically creates a list from items in existing lists. The system receives one or more example items corresponding to the list and assigns weights to the items in the existing lists based on the one or more example items. The system then forms the list based on the …
+
+None
+
+Abstract technical strategy of the Corporation and has the potential to open new business opportunities. Research at WRL ranges from Web search engines to tools to optimize binary codes, from hardware and software mechanisms to support scalable shared memory …
+
+The aim of this review was to survey all fungal pathologists with an association with the journal Molecular Plant Pathology and ask them to nominate which fungal pathogens they would place in a 'Top 10'based on scientific/economic importance. The survey generated …
+
+Typical first year for a new cluster:~ 0.5 overheating (power down most machines in< 5 mins,~ 1-2 days to recover)~ 1 PDU failure (~ 500-1000 machines suddenly disappear,~ 6 hours to come back)~ 1 rack-move (plenty of warning,~ 500-1000 machines powered …
+
+Background CT imaging of head-injured children has risks of radiation-induced malignancy. Our aim was to identify children at very low risk of clinically-important traumatic brain injuries (ciTBI) for whom CT might be unnecessary. Methods We enrolled patients younger than 18 …
+
+None
+
+Human cathepsin K is a recently identified protein with high primary sequence homology to members of the papain cysteine protease superfamily including cathepsins S, L, and B and is selectively expressed in osteoclasts (Drake, FH, Dodds, R., James, I., Connor, J …
+
+None
+
+Over the past several years, advances in the design and fabrication of planar solid oxide fuel cells (SOFCs) have led to a steady reduction in the temperatures necessary for their operation. Consequently, it appears more realistic now to use low cost heat-resistant alloys …
+

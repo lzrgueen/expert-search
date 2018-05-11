@@ -1,0 +1,80 @@
+The non-local Fisher–KPP equation: travelling waves and steady states
+
+Exponential decay for the fragmentation or cell-division equation
+
+Diffusion and mixing in fluid flow
+
+Stability in a nonlinear population maturation model
+
+Traveling waves in a one-dimensional heterogeneous medium
+
+Existence and non-existence of Fisher-KPP transition fronts
+
+Stability of generalized transition fronts
+
+KPP pulsating front speed-up by flows
+
+Self-averaging of Wigner transforms in random media
+
+Self-averaging from lateral diversity in the Itô–Schrödinger equation
+
+Boundary layers and KPP fronts in a cellular flow
+
+Quenching and propagation in KPP reaction-diffusion equations with a heat loss
+
+Boundary layers for cellular flows at high Péclet numbers
+
+Biomixing by chemotaxis and enhancement of biological reactions
+
+Flame capturing with an advection–reaction–diffusion model
+
+On the nonlocal Fisher–KPP equation: steady states, spreading speed and global bounds
+
+Diffusion in a weakly random Hamiltonian flow
+
+Traveling waves for the Keller–Segel system with Fisher birth terms
+
+Kinetic limits for waves in a random medium
+
+The explosion problem in a flow
+
+We consider the Fisher–KPP equation with a non-local saturation effect defined through an interaction kernel phgr (x) and investigate the possible differences with the standard Fisher–KPP equation. Our first concern is the existence of steady states. We prove that if the Fourier …
+
+We consider a classical integro-differential equation that arises in various applications as a model for cell-division or fragmentation. In biology, it describes the evolution of the density of cells that grow and divide. We prove the existence of a stable steady distribution (first …
+
+We study enhancement of diffusive mixing on a compact Riemannian manifold by a fast incompressible flow. Our main result is a sharp description of the class of flows that make the deviation of the solution from its average arbitrarily small in an arbitrarily short time, provided …
+
+We consider models for population structured by maturation/maturation speed proposed by Rotenberg. It is a variant of transport equations for age-structured populations which presents particularly interesting mathematical difficulties. It allows one to introduce more …
+
+We consider solutions of a scalar reaction–diffusion equation of the ignition type with a random, stationary and ergodic reaction rate. We show that solutions of the Cauchy problem spread with a deterministic rate in the long time limit. We also establish existence of …
+
+We consider Fisher-KPP-type reaction–diffusion equations with spatially inhomogeneous reaction rates. We show that a sufficiently strong localized inhomogeneity may prevent existence of transition-front-type global-in-time solutions while creating a global-in-time …
+
+We study the qualitative properties of the generalized transition fronts for the reaction–diffusion equations with the spatially inhomogeneous nonlinearity of the ignition type. We show that transition fronts are unique up to translation in time and are globally exponentially …
+
+We obtain a criterion for pulsating front speed-up by general periodic incompressible flows in two dimensions and in the presence of KPP nonlinearities. We achieve this by showing that the ratio of the minimal front speed and the effective diffusivity of the flow is bounded …
+
+We establish the self-averaging properties of the Wigner transform of a mixture of states in the regime when the correlation length of the random medium is much longer than the wave length but much shorter than the propagation distance. The main ingredients in the proof are …
+
+We consider the random Schrödinger equation as it arises in the paraxial regime for wave propagation in random media. In the white noise limit it becomes the Itô–Schrödinger stochastic partial differential equation which we analyze here in the high frequency regime …
+
+We study an eigenvalue problem associated with a reaction-diffusion-advection equation of the KPP type in a cellular flow. We obtain upper and lower bounds on the eigenvalues in the regime of a large flow amplitude A≪ 1. It follows that the minimal pulsating traveling front …
+
+We consider a reaction-diffusion system of KPP type in a shear flow and with a non-zero heat-loss parameter. We establish criteria for the flame blow-off and propagation, and identify the propagation speed in terms of the exponential decay of the initial data. We prove …
+
+We analyze the behavior of solutions of steady advection-diffusion problems in bounded domains with prescribed Dirichlet data when the Péclet number Pe≫ 1 is large. We show that the solution converges to a constant in each flow cell outside a boundary layer of width …
+
+Many phenomena in biology involve both reactions and chemotaxis. These processes can clearly influence each other, and chemotaxis can play an important role in sustaining and speeding up the reaction. However, to the best of our knowledge, the question of reaction …
+
+We conduct several verification tests of the advection–reaction–diffusion flame-capturing model, developed by Khokhlov in 1995 for subsonic nuclear burning fronts in supernova simulations. We find that energy conservation is satisfied, but there is systematic error in the …
+
+We consider the Fisher–KPP (for Kolmogorov–Petrovsky–Piskunov) equation with a nonlocal interaction term. We establish a condition on the interaction that allows for existence of non-constant periodic solutions, and prove uniform upper bounds for the …
+
+We consider the motion of a particle governed by a weakly random Hamiltonian flow. We identify temporal and spatial scales on which the particle trajectory converges to a spatial Brownian motion. The main technical issue in the proof is to obtain error estimates for the …
+
+Page 1. Interfaces and Free Boundaries 10 (2008), 517–538 Traveling waves for the Keller–Segelsystem with Fisher birth terms GREGOIRE NADIN † Département de Mathématiques etApplications, ´Ecole Normale Supérieure, CNRS UMR 8553, 45 rue d'Ulm, F 75230 Paris Cedex …
+
+Keywords: Waves in random media, Kinetic equation, Scintillation function, Time reversal., Wigner transform, Wave-wave correlation, Radiative transport equation, Self-averaging, Particles in random flow, Fokker-Planck equation … Mathematics Subject Classification: Primary: 60H25; …
+
+We consider the explosion problem in an incompressible flow introduced in [5]. We use a novel L p− L∞ estimate for elliptic advection-diffusion problems to show that the explosion threshold obeys a positive lower bound which is uniform in the advecting flow. We also …
+

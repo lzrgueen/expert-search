@@ -1,0 +1,80 @@
+On the proof of the positive mass conjecture in general relativity
+
+Conformal deformation of a Riemannian metric to constant scalar curvature
+
+A regularity theory for harmonic maps
+
+The structure of complete stable minimal surfaces in 3‐manifolds of non‐negative scalar curvature
+
+Proof of the positive mass theorem. II
+
+Existence of incompressible minimal surfaces and the topology of three dimensional manifolds with non-negative scalar curvature
+
+Harmonic maps into singular spaces andp-adic superrigidity for lattices in groups of rank one
+
+Uniqueness, symmetry, and embeddedness of minimal surfaces
+
+Variational theory for the total scalar curvature functional for Riemannian metrics and related topics
+
+Conformally flat manifolds, Kleinian groups and scalar curvature
+
+Sobolev spaces and harmonic maps for metric space targets
+
+Boundary regularity and the Dirichlet problem for harmonic maps
+
+On the structure of manifolds with positive scalar curvature
+
+Analytic aspects of the harmonic map problem
+
+Positive harmonic functions on complete manifolds of negative curvature
+
+Curvature estimates for minimal hypersurfaces
+
+Lectures on harmonic maps
+
+Estimates for stable minimal surfaces in three dimensional manifolds
+
+Manifolds with 1/4-pinched curvature are space forms
+
+On univalent harmonic maps between surfaces
+
+Let M be a space-time whose local mass density is non-negative everywhere. Then we prove that the total mass of M as viewed from spatial infinity (the ADM mass) must be positive unless M is the flat Minkowski space-time.(So far we are making the reasonable …
+
+A well-known open question in differential geometry is the question of whether a given compact Riemannian manifold is necessarily conformally equivalent to one of constant scalar curvature. This problem is known as the Yamabe problem because it was formulated …
+
+In this paper we develop a regularity theory for energy minimizing harmonic maps into Riemannian manifolds. Letu: Mn-> Nk be a map between Riemannian manifolds of dimension n and k. It was shown by CB Morrey [17] in 1948 that if n—2, then an energy …
+
+The purpose of this paper is to study minimal surfaces in three-dimensional manifolds which, on each compact set, minimize area up to second order. If M is a minimal surface in a Riemannian three-manifold N, then the condition that M be stable is expressed analytically …
+
+The positive mass theorem states that for a nontrivial isolated physical system, the total energy, which includes contributions from both matter and gravitation is positive. This assertion was demonstrated in our previous paper in the important case when the space …
+
+Let M be a compact Riemannian manifold. Let f be a continuous map from a Riemann surface Yg of genus g into M. Then it is an interesting question whether one can deform f to a map which has least area among all maps homotopic to f. If the map f can be deformed to a …
+
+In Part I of this paper we develop a theory of harmonic mappings into nonpositively curved metric spaces. The main application of the theory, which is presented in Part II, is to provide a new approach to the study of p-adic representations of lattices in noncompact semisimple …
+
+In 1956, AD Alexandrov [1] proved that a closed embedded hypersurface of constant mean curvature in Euclidean space is a standard sphere. Besides the importance of this result in differential geometry, the method employed in its proof has been used on a variety of …
+
+The contents of this paper correspond roughly to that of the author's lecture series given at Montecatini in July 1987. This paper is divided into five sections. In the first we present the Einstein-Hilbert variational problem on the space of Riemannian metrics on a compact …
+
+One of the natural generalizations of conformal structure on a two dimensional surface is a conformally flat structure on an n-manifold. In higher dimensions, not every manifold admits such a structure and it is a difficult problem to give a good classification of conformally flat …
+
+When one studies variational problems for maps between Riemannian manifolds one must consider spaces which we denote Vr1'p (r2, X). Here ft is a compact domain in a Riemannian manifold, X is a second Riemannian manifold, p G [l, oo), and W1, p indicates …
+
+In a previous paper [10] we developed an interior regularity theory for energy minimizing harmonic maps into Riemannian manifolds. In the first two sections of this paper we prove boundary regularity for energy minimizing maps with prescribed Dirichlet boundary …
+
+In this paper, we study the question of which compact manifolds admit a metric with positive scalar curvature. Scalar curvature is perhaps the weakest invariant among all the well-known invariants constructed from the curvature tensor. It measures the deviation of the …
+
+A fundamental nonlinear object in differential geometry is a map between manifolds. If the manifolds have Riemannian metrics, then it is natural to choose representaives for maps which respect the metric structures of the manifolds. Experience suggests that one should …
+
+This paper studies the interaction between the geometry of complete Riemannian manifolds of negative curvature and some aspects of function theory on these spaces. The study of harmonic functions on the unit disc provides a classical and beautiful example of this …
+
+In [12] J. Simons initiated a study of minimal cones from a more differential geometric point of view than had previously been attempted. One of Simons' main results was an identity for the Laplacian of the second fundamental form of minimal hyper-surfaces. Coupling this …
+
+None
+
+None
+
+Let $(M, g_0) $ be a compact Riemannian manifold with pointwise $1/4$-pinched sectional curvatures. We show that the Ricci flow deforms $ g_0 $ to a constant curvature metric. The proof uses the fact, also established in this paper, that positive isotropic curvature is …
+
+Hence the energy defines a functional on the space of Lipshitz maps between M and M'. Critical points of this functional are called harmonic maps. These maps were studied by Bochner, Morrey, Rauch, Eells and Sampson, Hartman, Uhlenbeck, Hamilton, Hildebrandt …
+

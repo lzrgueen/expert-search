@@ -1,0 +1,80 @@
+Conservation laws and correlation functions
+
+Self-consistent approximations in many-body systems
+
+The ground state of matter at high densities: equation of state and stellar models
+
+Lectures on quantum mechanics
+
+Ground-state properties of magnetically trapped Bose-condensed rubidium gas
+
+Neutron star matter
+
+Landau Fermi-liquid theory: concepts and applications
+
+Superfluidity in neutron stars
+
+Spin up in neutron stars: the future of the Vela pulsar
+
+Transverse interactions and transport in relativistic quark-gluon and electromagnetic plasmas
+
+Physics of neutron stars
+
+Hydrodynamics of ultra-relativistic heavy ion collisions
+
+G. Baym and C. Pethick, Annu. Rev. Nucl. Sci. 25, 27 (1975)
+
+Astrophysical measurement of the equation of state of neutron star matter
+
+Landau theory of relativistic Fermi liquids
+
+Determination of thermodynamic Green's functions
+
+The transition temperature of the dilute interacting Bose gas
+
+Supernova theory
+
+Neutron starquakes and pulsar speedup
+
+The physics of Hanbury Brown--Twiss intensity interferometry: from stars to nuclear collisions
+
+In describing transport phenomena, it is vital to build the conservation laws of number, energy, momentum, and angular momentum into the structure of the approximation used to determine the thermodynamic many-particle Green's functions. A method for generating …
+
+This paper investigates the criteria for maintenance of the macroscopic conservation laws of number, momentum, and energy by approximate two-particle correlation functions in many-body systems. The methods of generating such approximations are the same as in a …
+
+None
+
+These lecture notes comprise a three-semester graduate course in quantum mechanics given at the University of Illinois. There are a number of texts which present the basic topics very well; but since a fair quantity of the mate rial discussed in my course was not available …
+
+In light of the recent experimental observation of Bose-Einstein condensation in dilute 87 Rb gas cooled to nanokelvin-scale temperatures, we give a quantitative account of the ground-state properties of magnetically trapped Bose gases. Using simple scaling arguments, we …
+
+The matter in neutron stars is essentially in its ground state and ranges in density up to and beyond 3× 10 14 g/cm 3, the density of nuclear matter. Here we determine the constitution of the ground state of matter and its equation of state in the regime from 4.3× 10 11 g/cm 3 …
+
+A professional reference for physicists working in condensed matter physics as well as in nuclear physics and astrophysics, on Landau's theory of Fermi liquids--a vital theory of both theoretical and practical use. The emphasis is on the practical development and application …
+
+MATTER in the interior of a typical neutron star is a mixture of three degenerate interacting quantum liquids—neutrons, protons and electrons, the latter two having a density at most a few per cent that of the neutrons 1. The mixture, bounded on the inside by a superdense …
+
+NATURE VOL. 224 NOVEME3ER 29 1 969 the yield point. This results in a fractional decrease in its moment of inertia - 10°, and by conservation of its angular momentum, in a speed up of AQ/Q -- 10 * of the rotational velocity of the crust (the pulsar clock, in other words). The time scale …
+
+In calculating the transport properties of relativistic electromagnetic or quark-gluon plasmas microscopically, one encounters the problem of divergent constituent cross sections arising from the exchange of transverse photons or gluons. Inclusion of Landau damping of the …
+
+Since the first identification of neutron stars, in pulsars, a decade ago, theoretical and observational knowledge of these unusual objects has grown at a rapid rate. In this article we describe developments that have taken place since our 1975 review article on neutron …
+
+The central rapidity regime in a central collision of two heavy ions at ultra-relativistic energies is expected, according to Bjorken's recent space-time picture of this event, to undergo a longitudinal hydrodynamic expansion with accompanying transverse rarefaction …
+
+None
+
+We present the first astrophysical measurement of the pressure of cold matter above nuclear saturation density, based on recently determined masses and radii of three neutron stars. The pressure at higher densities is below the predictions of equations of state that account …
+
+A relativistic extension of the Landau Fermi liquid theory, applicable to the study of high density matter, is developed. Consequences of Lorentz invariance in the theory are explored. The formalism is illustrated by a study of relativistic Fermi systems weakly …
+
+In the study of thermodynamic correlation functions or Green's functions, one is naturally led to a calculation of values of the Fourier transform of the Green's function on a discrete set of points in the complex energy plane. It is shown that even though these points do not in …
+
+We show that the critical temperature of a uniform dilute Bose gas increases linearly with the s-wave scattering length describing the repulsion between the particles. Because of infrared divergences, the magnitude of the shift cannot be obtained from perturbation theory, even in …
+
+In this paper we develop the theory of supernova explosions as produced by shock waves formed in the collapse of large stars. We are chiefly concerned with understanding the infall dynamics, shock formation, and the calculation of the shock energy in the various phases of …
+
+We give here a simple model of pulsar speedup due to starquakes that enables one to predict the time to the next starquake from the magnitude of the prior one. The parameters of the theory are estimated for recent models of neutron stars. The starquake explanation of …
+
+In the 1950's Hanbury Brown and Twiss showed that one could measure the angular sizes of astronomical radio sources and stars from correlations of signal intensities, rather than amplitudes, in independent detectors. Their subsequent correlation experiments …
+

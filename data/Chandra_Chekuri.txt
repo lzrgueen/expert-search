@@ -1,0 +1,80 @@
+Incremental clustering and dynamic information retrieval
+
+Approximation algorithms for directed Steiner problems
+
+A polynomial time approximation scheme for the multiple knapsack problem
+
+Maximizing a monotone submodular function subject to a matroid constraint
+
+Approximation techniques for average completion time scheduling
+
+Maximizing a submodular set function subject to a matroid constraint
+
+Fast estimation of diameter and shortest paths (without matrix multiplication)
+
+Approximation schemes for minimizing average weighted completion time with release dates
+
+Web search using automatic classification
+
+Approximating a finite metric by a small number of tree metrics
+
+On Multi-Dimensional Packing Problems.
+
+A recursive greedy algorithm for walks in directed graphs
+
+Maximum coverage problem with group budget constraints and applications
+
+Conjunctive query containment revisited
+
+Conjunctive query containment revisited
+
+Rounding via trees: deterministic approximation algorithms for group Steiner trees and k-median
+
+On multidimensional packing problems
+
+Improved algorithms for orienteering and related problems
+
+Approximation algorithms for the metric labeling problem via a new linear programming formulation
+
+Dependent randomized rounding via exchange properties of combinatorial structures
+
+Motivated by applications such as document and image classification in information retrieval, we consider the problem of clustering dynamic point sets in a metric space. We propose a model called incremental clustering which is based on a careful analysis of the …
+
+We give the first nontrivial approximation algorithms for the Steiner tree problem and the generalized Steiner network problem on general directed graphs. These problems have several applications in network design and multicast routing. For both problems, the best …
+
+The multiple knapsack problem (MKP) is a natural and well-known generalization of the single knapsack problem and is defined as follows. We are given a set of n items and m bins (knapsacks) such that each item i has a profit p(i) and a size s(i), and each bin j has a …
+
+Let f:2^X→\calR_+ be a monotone submodular set function, and let (X,\calI) be a matroid. We consider the problem \rmmax_S∈\calIf(S). It is known that the greedy algorithm yields a 1/2-approximation ML Fisher, GL Nemhauser, and LA Wolsey, Math. Programming Stud., no …
+
+We consider the problem of nonpreemptive scheduling to minimize average (weighted) completion time, allowing for release dates, parallel machines, and precedence constraints. Recent work has led to constant-factor approximations for this problem based on solving a …
+
+Abstract Let f:2^N→\calR^+ be a non-decreasing submodular set function, and let (N,\calI) be a matroid. We consider the problem S∈\calIf(S). It is known that the greedy algorithm yields a 1/2-approximation 9 for this problem. It is also known, via a reduction from the max-k …
+
+In the recent past, there has been considerable progress in devising algorithms for the all-pairs shortest paths (APSP) problem running in time significantly smaller than the obvious time bound of O (n 3). Unfortunately, all the new algorithms are based on fast matrix …
+
+We consider the problem of scheduling n jobs with release dates on m machines so as to minimize their average weighted completion time. We present the first known polynomial time approximation schemes for several variants of this problem. Our results include PTASs …
+
+We study the automatic classification of Web documents into pre-specified categories, with the objective of increasing the precision of Web search. We describe experiments in which we classify documents into high-level categories of the Yahoo! taxonomy, and a simple …
+
+Y. Bartal (1996, 1998) gave a randomized polynomial time algorithm that given any n point metric G, constructs a tree T such that the expected stretch (distortion) of any edge is at most O (log n log log n). His result has found several applications and in particular has resulted in …
+
+We study the approximability of multi-dimensional generalizations of three classical packing problems: multiprocessor scheduling, bin packing, and the knapsack problem. Speci cally, we study the vector scheduling problem, its dual problem, namely, the vector bin packing …
+
+Given an arc-weighted directed graph G=(V, A,/spl lscr/) and a pair of nodes s, t, we seek to find an st walk of length at most B that maximizes some given function f of the set of nodes visited by the walk. The simplest case is when we seek to maximize the number of nodes …
+
+We study a variant of the maximum coverage problem which we label the maximum coverage problem with group budget constraints (MCG). We are given a collection of sets \calS={S_1,S_2,...,S_m\} where each set S i is a subset of a given ground set X. In the …
+
+We consider the problems of conjunctive query containment and minimization, which are known to be NP-complete, and show that these problems can be solved in polynomial time for the class of acyclic queries. We then generalize the notion of acyclicity and define a …
+
+We consider the problems of conjunctive query containment and minimization, which are known to be NP-complete, and show that these problems can be solved in polynomial time for the class of acyclic queries. We then generalize the notion of acyclicity and define a …
+
+Most optimization problems on an undirected graph reduce in complexity when restricted to instances on a t. ree. A recent result [3] for probabiistically approsimating graph metrics by trees such that no edge &retches (in an expected sense) by more than a factor of O (log2 n) …
+
+We study the approximability of multidimensional generalizations of three classical packing problems: multiprocessor scheduling, bin packing, and the knapsack problem. Specifically, we study the vector scheduling problem, its dual problem, namely, the vector bin packing …
+
+In this article, we consider the orienteering problem in undirected and directed graphs and obtain improved approximation algorithms. The point to point-orienteering problem is the following: Given an edge-weighted graph G=(V, E)(directed or undirected), two nodes s, t∈ …
+
+We consider approximation algorithms for the metric labeling problem. This problem was introduced in a recent paper by Kleinberg and Tardos [20], and captures many classification problems that arise in computer vision and related fields. They gave an &Ogr;(log k log log k) …
+
+We consider the problem of randomly rounding a fractional solution $ x $ in an integer polytope $ P\subseteq [0, 1]^ n $ to a vertex $ X $ of $ P $, so that $\E [X]= x $. Our goal is to achieve {\em concentration properties} for linear and sub modular functions of the rounded …
+

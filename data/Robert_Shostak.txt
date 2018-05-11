@@ -1,0 +1,80 @@
+The Byzantine generals problem
+
+Reaching agreement in the presence of faults
+
+SIFT: Design and analysis of a fault-tolerant computer for aircraft control
+
+Deciding combinations of theories
+
+Voice-controlled wireless communications system and method
+
+A practical decision procedure for arithmetic with function symbols
+
+Deciding linear inequalities by computing loop residues
+
+On the SUP-INF method for proving Presburger formulas
+
+An algorithm for reasoning about equality
+
+Distributed database system and method
+
+Refutation graphs
+
+Non-modal database system with methods for incremental maintenance
+
+Voice-controlled wireless communications system and method
+
+Voice-controlled communications system and method using a badge application
+
+Non-modal database system wth methods for incremental maintenance of live reports
+
+STP: A mechanized logic for specification and verification
+
+The design, analysis, and verification of the SIFT fault tolerant system
+
+The Semiautomatic Generation of Inductive Assertions for Proving Program Correctness.
+
+Wireless communication chat room system and method
+
+Formal verification of circuit designs
+
+Reliable computer systems must handle malfunctioning components that give conflicting information to different parts of the system. This situation can be expressed abstractly in terms of a group of generals of the Byzantine army camped with their troops around an …
+
+The problem addressed here concerns a set of isolated processors, some unknown subset of which may be faulty, that communicate only by means of two-party messages. Each nonfaulty processor has a private value of information that must be communicated to each …
+
+SIFT (Software Implemented Fault Tolerance) is an ultrareliable computer for critical aircraft control applications that achieves fault tolerance by the replication of tasks among processing units. The main processing units are off-the-shelf minicomputers, with standard …
+
+A method~ sg~ ven for dec~ dlng formulas in combinations of unquantified first-order theories. Rather than couphng separate decision procedures for the contributing theories, the method makes use of a single, uniform procedure that minimizes the code needed to …
+
+A wireless communication system has a central computer, one or more wireless access points and one or more personal badges that communicate wirelessly with the one or more wireless access points. The badges provide the user with a communications device that …
+
+ABSTRACT A practical procedure is presented for an extension of quantifier-free Presburger arithmetic that permits arbitrary unmterpreted predicate and function symbols This theory includes many of the formulas one tends to encounter in program venficatlon and is powerful …
+
+ABSTRACT VR Pratt has shown that the real and integer feastbdlty of sets of linear mequallUes of the form x _< y+ c can be decided quickly by examining the loops m certain graphs Pratt's method is generahzed, first to real feaslbdlty of mequahues m two variables …
+
+This article presents an improved version of Bledsoe's SUP-INF method for proving theorems in a subclass of Presburger arithmetic The improved method is able to determine mvahdRy as well as vahdlty, and provides counterexamples for formulas determined to be …
+
+To be useful for program verification, a deductive system must be able to reason proficiently about equality. Important as its semantics are, equality is often handled in an ad hoc and incomplete way--most commonly with a rewrite rule that substitutes equals for equals with some heuristic …
+
+A distributed data processing system is provided, comprising a server computer and a plurality of client computers connected to said server computer, the interaction of each client computer with the server computer being a separate client session. The server computer …
+
+A graph-theoretic characterization of truth-functional consistency is introduced, providing a clear perspective on some resolution-based for deciding formulas in propositional and first-order logic. Various resolution strategies are analyzed in terms of “walks” about specially …
+
+A database system with methodology providing" live" views of a database is described. In response to a user request (eg, query) to display information from the database according to user-specified criteria, the system registers and displays a view (eg, user-designed form …
+
+A wireless communication system has a central computer, one or more wireless access points and one or more personal badges that communicate wirelessly with the one or more wireless access points. The badges provide the user with a communications device that …
+
+A communication system has a control computer, one or more concentrators and one or more access device each having a badge application that communicates wirelessly with the one or more concentrators. The access device with the badge application provides the user …
+
+Non-modal database system having methods for incremental maintenance of live views is desribed. The database system maintains a single-context workspace throughout an entire user session; here, the user creates a base document (database) for storing user-supplied …
+
+This paper describes a logic and proof theory that has been mechanized and successfully applied to prove nontrivial properties of a fully distributed fault-tolerant system. We believe the system is close to achieving the critical balance in man-machine interaction necessary …
+
+Abstract The SIFT (Software Implemented Fault Tolerance) computer is a fault-tolerant computer in which fault tolerance is achieved primarily by software mechanisms. Tasks are executed redundantly on multiple, independent processors that are loosely synchronized …
+
+This final report describes progress over the period 1 July 1977 through 30 June 1978 on a five-year project aimed at the problem of synthesizing so-called inductive assertions to support the Floyd-Hoare method for proving correctness of computer programs. In the fifth …
+
+A chat group system and method are provided that permit a wireless communications system based on an 802.11 protocol to implement an easy-to-use, multi-user, push-to-talk, instant communications functionality. The system maintains a reasonable system latency …
+
+None
+

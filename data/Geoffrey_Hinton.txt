@@ -1,0 +1,80 @@
+Imagenet classification with deep convolutional neural networks
+
+Learning internal representations by error propagation
+
+Learning representations by back-propagating errors
+
+A fast learning algorithm for deep belief nets
+
+Reducing the dimensionality of data with neural networks
+
+Deep learning
+
+Dropout: A simple way to prevent neural networks from overfitting
+
+Visualizing data using t-SNE
+
+Adaptive mixtures of local experts
+
+A learning algorithm for Boltzmann machines
+
+Deep neural networks for acoustic modeling in speech recognition: The shared views of four research groups
+
+Training products of experts by minimizing contrastive divergence
+
+Rectified linear units improve restricted boltzmann machines
+
+A view of the EM algorithm that justifies incremental, sparse, and other variants
+
+Improving neural networks by preventing co-adaptation of feature detectors
+
+Phoneme recognition using time-delay neural networks
+
+Learning and releaming in boltzmann machines
+
+Connectionist learning procedures
+
+Learning multiple layers of features from tiny images
+
+A general framework for parallel distributed processing
+
+We trained a large, deep convolutional neural network to classify the 1.3 million high-resolution images in the LSVRC-2010 ImageNet training set into the 1000 different classes. On the test data, we achieved top-1 and top-5 error rates of 39.7\% and 18.9\% which is …
+
+This paper presents a generalization of the perception learning procedure for learning the correct sets of connections for arbitrary networks. The rule, falled the generalized delta rule, is a simple scheme for implementing a gradient descent method for finding weights that …
+
+We describe a new learning procedure, back-propagation, for networks of neurone-like units. The procedure repeatedly adjusts the weights of the connections in the network so as to minimize a measure of the difference between the actual output vector of the net and the …
+
+We show how to use “complementary priors” to eliminate the explaining-away effects that make inference difficult in densely connected belief nets that have many hidden layers. Using complementary priors, we derive a fast, greedy algorithm that can learn deep, directed …
+
+High-dimensional data can be converted to low-dimensional codes by training a multilayer neural network with a small central layer to reconstruct high-dimensional input vectors. Gradient descent can be used for fine-tuning the weights in such “autoencoder” networks …
+
+Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object …
+
+Deep neural nets with a large number of parameters are very powerful machine learning systems. However, overfitting is a serious problem in such networks. Large networks are also slow to use, making it difficult to deal with overfitting by combining the predictions of …
+
+We present a new technique called" t-SNE" that visualizes high-dimensional data by giving each datapoint a location in a two or three-dimensional map. The technique is a variation of Stochastic Neighbor Embedding (Hinton and Roweis, 2002) that is much easier to optimize …
+
+We present a new supervised learning procedure for systems composed of many separate networks, each of which learns to handle a subset of the complete set of training cases. The new procedure can be viewed either as a modular version of a multilayer supervised …
+
+The computational power of massively parallel networks of simple processing elements resides in the communication bandwidth provided by the hardware connections between elements. These connections can allow a significant fraction of the knowledge of the system …
+
+Most current speech recognition systems use hidden Markov models (HMMs) to deal with the temporal variability of speech and Gaussian mixture models (GMMs) to determine how well each state of each HMM fits a frame or a short window of frames of coefficients that …
+
+It is possible to combine multiple latent-variable models of the same data by multiplying their probability distributions together and then renormalizing. This way of combining individual “expert” models makes it hard to generate samples from the combined model but easy to …
+
+Restricted Boltzmann machines were developed using binary stochastic hidden units. These can be generalized by replacing each binary unit by an infinite number of copies that all have the same weights but have progressively more negative biases. The learning and …
+
+The EM algorithm performs maximum likelihood estimation for data in which some variables are unobserved. We present a function that resembles negative free energy and show that the M step maximizes this function with respect to the model parameters and the E step …
+
+When a large feedforward neural network is trained on a small training set, it typically performs poorly on held-out test data. This" overfitting" is greatly reduced by randomly omitting half of the feature detectors on each training case. This prevents complex co …
+
+In this paper we present a Time-Delay Neural Network (TDNN) approach to phoneme recognition which is characterized by two important properties. 1) Using a 3 layer arrangement of simple computing units, a hierarchy can be constructed that allows for the …
+
+Many of the chapters in this volume make use of the ability of a parallel network to perform cooperative searches for good solutions to problems. The basic idea is simple: The weights on the connections between processing units encode knowledge about how things normally …
+
+A major goal of research on networks of neuronlike processing units is to discover efficient learning procedures that allow these networks to construct complex internal representations of their environment. The learning procedures must be capable of modifying the connection …
+
+In this work we describe how to train a multi-layer generative model of natural images. We use a dataset of millions of tiny colour images, described in the next section. This has been attempted by several groups but without success [3, 7]. The models on which we focus are …
+
+In Chapter 1 and throughout this book, we describe a large number of models, each different in detail–each a variation on the parallel dis-tributed processing (PDP) idea. These various models, and indeed many in the literature, clearly have many features in common, but they …
+

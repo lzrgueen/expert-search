@@ -1,0 +1,80 @@
+A study of smoothing methods for language models applied to ad hoc information retrieval
+
+A study of smoothing methods for language models applied to information retrieval
+
+Document language models, query models, and risk minimization for information retrieval
+
+Model-based feedback in the language modeling approach to information retrieval
+
+Topic sentiment mixture: modeling facets and opinions in weblogs
+
+Discovering evolutionary theme patterns from text: an exploration of temporal text mining
+
+Beyond independent relevance: methods and evaluation metrics for subtopic retrieval
+
+Mining text data
+
+Context-sensitive information retrieval using implicit feedback
+
+Implicit user modeling for personalized search
+
+Instance weighting for domain adaptation in NLP
+
+Statistical language models for information retrieval
+
+Latent aspect rating analysis on review text data: a rating regression approach
+
+Topic modeling with network regularization
+
+A probabilistic approach to spatiotemporal theme pattern mining on weblogs
+
+A survey of text classification algorithms
+
+Big data: astronomical or genomical?
+
+Rated aspect summarization of short comments
+
+Mining long-term search history to improve search accuracy
+
+A survey of text clustering algorithms
+
+Abstract Language modeling approaches to information retrieval are attractive and promising because they connect the problem of retrieval with that of language model estimation, which has been studied extensively in other application areas such as speech …
+
+Abstract Language modeling approaches to information retrieval are attractive and promising because they connect the problem of retrieval with that of language model estimation, which has been studied extensively in other application areas such as speech …
+
+We present a framework for information retrieval that combines document models and query models using a probabilistic ranking function based on Bayesian decision theory. The framework suggests an operational retrieval model that extends recent developments in the …
+
+The language modeling approach to retrieval has been shown to perform well empirically. One advantage of this new approach is its statistical foundations. However, feedback, as one important component in a retrieval system, has only been dealt with heuristically in this …
+
+In this paper, we define the problem of topic-sentiment analysis on Weblogs and propose a novel probabilistic model to capture the mixture of topics and sentiments simultaneously. The proposed Topic-Sentiment Mixture (TSM) model can reveal the latent topical facets in a …
+
+Abstract Temporal Text Mining (TTM) is concerned with discovering temporal patterns in text information collected over time. Since most text information bears some time stamps, TTM has many applications in multiple domains, such as summarizing events in news articles …
+
+We present a non-traditional retrieval problem we call subtopic retrieval. The subtopic retrieval problem is concerned with finding documents that cover many different subtopics of a query topic. In such a problem, the utility of a document in a ranking is dependent on other …
+
+Text mining applications have experienced tremendous advances because of web 2.0 and social networking applications. Recent advances in hardware and software technology have lead to a number of unique scenarios where text mining algorithms are learned. Mining Text …
+
+A major limitation of most existing retrieval models and systems is that the retrieval decision is made based solely on the query and document collection; information about the actual user and search context is largely ignored. In this paper, we study how to exploit implicit …
+
+Abstract Information retrieval systems (eg, web search engines) are critical for overcoming information overload. A major deficiency of existing retrieval systems is that they generally lack user modeling and are not adaptive to individual users, resulting in inherently non …
+
+Abstract Domain adaptation is an important problem in natural language processing (NLP) due to the lack of labeled data in novel domains. In this paper, we study the domain adaptation problem from the instance weighting perspective. We formally analyze and …
+
+As online information grows dramatically, search engines such as Google are playing a more and more important role in our lives. Critical to all search engines is the problem of designing an effective retrieval model that can rank documents accurately for a given query …
+
+In this paper, we define and study a new opinionated text data analysis problem called Latent Aspect Rating Analysis (LARA), which aims at analyzing opinions expressed about an entity in an online review at the level of topical aspects to discover each individual …
+
+In this paper, we formally define the problem of topic modeling with network structure (TMN). We propose a novel solution to this problem, which regularizes a statistical topic model with a harmonic regularizer based on a graph structure in the data. The proposed method …
+
+Mining subtopics from weblogs and analyzing their spatiotemporal patterns have applications in multiple domains. In this paper, we define the novel problem of mining spatiotemporal theme patterns from weblogs and propose a novel probabilistic approach to …
+
+The problem of classification has been widely studied in the data mining, machine learning, database, and information retrieval communities with applications in a number of diverse domains, such as target marketing, medical diagnosis, news group filtering, and document …
+
+Genomics is a Big Data science and is going to get much bigger, very soon, but it is not known whether the needs of genomics will exceed other Big Data domains. Projecting to the year 2025, we compared genomics with three other major generators of Big Data …
+
+Web 2.0 technologies have enabled more and more people to freely comment on different kinds of entities (eg sellers, products, services). The large scale of information poses the need and challenge of automatic summarization. In many cases, each of the user-generated …
+
+Long-term search history contains rich information about a user's search preferences, which can be used as search context to improve retrieval performance. In this paper, we study statistical language modeling based methods to mine contextual information from long-term …
+
+Clustering is a widely studied data mining problem in the text domains. The problem finds numerous applications in customer segmentation, classification, collaborative filtering, visualization, document organization, and indexing. In this chapter, we will provide a …
+

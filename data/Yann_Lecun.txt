@@ -1,0 +1,80 @@
+Gradient-based learning applied to document recognition
+
+Deep learning
+
+Backpropagation applied to handwritten zip code recognition
+
+Optimal brain damage
+
+Overfeat: Integrated recognition, localization and detection using convolutional networks
+
+Efficient backprop
+
+Handwritten digit recognition with a back-propagation network
+
+Convolutional networks for images, speech, and time series
+
+Learning hierarchical features for scene labeling
+
+What is the best multi-stage architecture for object recognition?
+
+Learning mid-level features for recognition
+
+Learning a similarity metric discriminatively, with application to face verification
+
+Learning methods for generic object recognition with invariance to pose and lighting
+
+Learning algorithms for classification: A comparison on handwritten digit recognition
+
+Scaling learning algorithms towards AI
+
+Unsupervised learning of invariant feature hierarchies with applications to object recognition
+
+Convolutional networks and applications in vision
+
+Comparison of classifier methods: a case study in handwritten digit recognition
+
+Efficient pattern recognition using a new transformation distance
+
+A theoretical analysis of feature pooling in visual recognition
+
+Multilayer neural networks trained with the back-propagation algorithm constitute the best example of a successful gradient based learning technique. Given an appropriate network architecture, gradient-based learning algorithms can be used to synthesize a complex …
+
+Deep learning allows computational models that are composed of multiple processing layers to learn representations of data with multiple levels of abstraction. These methods have dramatically improved the state-of-the-art in speech recognition, visual object …
+
+The ability of learning networks to generalize can be greatly enhanced by providing constraints from the task domain. This paper demonstrates how such constraints can be integrated into a backpropagation network through the architecture of the network. This …
+
+We have used information-theoretic ideas to derive a class of practical and nearly optimal schemes for adapting the size of a neural network. By removing unimportant weights from a network, several improvements can be expected: better generalization, fewer training …
+
+We present an integrated framework for using Convolutional Networks for classification, localization and detection. We show how a multiscale and sliding window approach can be efficiently implemented within a ConvNet. We also introduce a novel deep learning …
+
+The convergence of back-propagation learning is analyzed so as to explain common phenomenon observedb y practitioners. Many undesirable behaviors of backprop can be avoided with tricks that are rarely exposedin serious technical publications. This paper gives …
+
+We present an application of back-propagation networks to handwritten digit recognition. Minimal preprocessing of the data was required, but architecture of the network was highly constrained and specifically designed for the task. The input of the network consists of …
+
+The ability of multilayer back-propagation networks to learn complex, high-dimensional, nonlinear mappings from large collections of examples makes them obvious candidates for image recognition or speech recognition tasks (see PATTERN RECOGNITION AND …
+
+Scene labeling consists of labeling each pixel in an image with the category of the object it belongs to. We propose a method that uses a multiscale convolutional network trained from raw pixels to extract dense feature vectors that encode regions of multiple sizes centered on …
+
+In many recent object recognition systems, feature extraction stages are generally composed of a filter bank, a non-linear transformation, and some sort of feature pooling layer. Most systems use only one stage of feature extraction in which the filters are hard …
+
+Many successful models for scene or object recognition transform low-level descriptors (such as Gabor filter responses, or SIFT descriptors) into richer representations of intermediate complexity. This process can often be broken down into two steps:(1) a coding …
+
+We present a method for training a similarity metric from data. The method can be used for recognition or verification applications where the number of categories is very large and not known during training, and where the number of training samples for a single category is …
+
+We assess the applicability of several popular learning methods for the problem of recognizing generic visual categories with invariance to pose, lighting, and surrounding clutter. A large dataset comprising stereo image pairs of 50 uniform-colored toys under 36 …
+
+This paper compares the performance of several classifier algorithms on a standard database of handwritten digits. We consider not only raw accuracy, but also training time, recognition time, and memory requirements. When available, we report measurements of …
+
+One long-term goal of machine learning research is to produce methods that are applicable to highly complex tasks, such as perception (vision, audition), reasoning, intelligent control, and other artificially intelligent behaviors. We argue that in order to progress toward this …
+
+We present an unsupervised method for learning a hierarchy of sparse feature detectors that are invariant to small shifts and distortions. The resulting feature extractor consists of multiple convolution filters, followed by a feature-pooling layer that computes the max of …
+
+Intelligent tasks, such as visual perception, auditory perception, and language understanding require the construction of good internal representations of the world (or" features")? which must be invariant to irrelevant variations of the input while, preserving …
+
+This paper compares the performance of several classifier algorithms on a standard database of handwritten digits. We consider not only raw accuracy, but also training time, recognition time, and memory requirements. When available, we report measurements of …
+
+Memory-based classification algorithms such as radial basis functions or K-nearest neighbors typically rely on simple distances (Euclidean, dot product...), which are not particularly meaningful on pattern vectors. More complex, better suited distance measures …
+
+Many modern visual recognition algorithms incorporate a step of spatial 'pooling', where the outputs of several nearby feature detectors are combined into a local or global 'bag of features', in a way that preserves task-related information while removing irrelevant details …
+

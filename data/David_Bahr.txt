@@ -1,0 +1,80 @@
+The physical basis of glacier volume‐area scaling
+
+Non-linear deformation mechanisms during nanoindentation
+
+Estimating fluvial sediment transport: the rating parameters
+
+Efficiency of energy conversion for devices containing a piezoelectric component
+
+Thermal and mechanical properties of poly (3-hydroxybutyrate-co-3-hydroxyvalerate)/cellulose nanowhiskers composites
+
+Sea‐level rise from glaciers and ice caps: A lower bound
+
+Exploiting social networks to mitigate the obesity epidemic
+
+Response time of glaciers as a function of size and mass balance: 1. Theory
+
+Counting glaciers: use of scaling methods to estimate the number and size distribution of the glaciers of the world
+
+A resonant frequency tunable, extensional mode piezoelectric vibration harvesting mechanism
+
+A MEMS fabricated flexible electrode array for recording surface field potentials
+
+Exponential approximations to compacted sediment porosity profiles
+
+Direct observation of plasticity and quantitative hardness measurements in single crystal cyclotrimethylene trinitramine by nanoindentation
+
+Analysis of plastic deformation in nanoscale metallic multilayers with coherent and incoherent interfaces
+
+Effects of Cellulose Nanowhiskers on Mechanical, Dielectric, and Rheological Properties of Poly(3-hydroxybutyrate-co-3-hydroxyvalerate)/Cellulose Nanowhisker …
+
+Characterization of flexible ECoG electrode arrays for chronic recording in awake rats
+
+Global distributions of glacier properties: a stochastic scaling paradigm
+
+Deformation mechanisms and strength in nanoscale multilayer metallic composites with coherent and incoherent interfaces
+
+Materials science & engineering
+
+Recent developments in thin film adhesion measurement
+
+Ice volumes are known for only a few of the roughly 160,000 glaciers worldwide but are important components of many climate and sea level studies which require water flux estimates. A scaling analysis of the mass and momentum conservation equations shows that …
+
+Experiments involving the indentation of single crystals of both tungsten and an iron alloy show that the observed yield phenomena can be predicted using a superdislocation model driven by the change in shear stress between the elastically and fully plastic loading …
+
+Correlations between suspended sediment load rating parameters, river basin morphology, and climate provide information about the physical controls on the sediment load in rivers and are used to create predictive equations for the sediment rating parameters. Long-term …
+
+Recent developments in miniaturized sensors, digital processors and wireless communication systems have many desirable applications. The realization of these applications however, is limited by the lack of a similarly sized power source. Micro-scale …
+
+Abstract Bacterial polyester poly (3-hydroxybutyrate-co-3-hydroxyvalerate)(PHBV) was reinforced with cellulose nanowhiskers (CNW) in 1–5 wt.% concentrations using a solvent casting method. The CNW was prepared from microcrystalline cellulose (MCC) using …
+
+One of the most easily measured dimensions of a glacier, the accumulation area, is linked to future changes in glacier volume and consequent changes in sea level. Currently observed accumulation areas are too small, forcing glaciers to lose 27% of their volume to attain …
+
+Despite significant efforts, obesity continues to be a major public health problem, and there are surprisingly few effective strategies for its prevention and treatment. We now realize that healthy diet and activity patterns are difficult to maintain in the current physical environment …
+
+Page 1. JOURNAL OF GEOPHYSICAL RESEARCH, VOL. 103, NO. B5, PAGES 9777-9782,MAY 10, 1998 Response time of glaciers as a function of size and mass balance: 1. TheoryDavid B. Bahr, W. Tad Pfeifer, x Christophe Sassolas, and Mark F. Meier Institute of Arctic …
+
+Global and regional syntheses of glacier melt and runoff are needed for understanding present and future sea-level rise, as well as for hydrological and climatological analyses. Observational data on glacier areas are needed for modeling glacier-climate interactions …
+
+Electrical power for distributed, wireless sensors may be harvested from vibrations in the ambient through the use of electromechanical transducers. To be most useful, the electromechanical transducer should maximize the harvested power by matching its …
+
+We developed a method to microfabricate flexible electrode arrays on a thin Kapton substrate, which was engineered to minimize trauma when inserted between the dura and skull to obtain surface EEG recordings. The array consisted of 64 gold electrodes, each 150 …
+
+Sediment compaction and corresponding porosity variations can be modeled by a simple exponential with depth. The porosity solution is derived analytically as a complicated function of pore water pressure, but the underlying form is shown to approximate an …
+
+Investigation of deformation beginning with elasticity and continuing through the elastic–plastic transition to incipient cracking has been conducted for (210),(021) and (001) oriented single crystals of the explosive cyclotrimethylene trinitramine, commonly known as “RDX” …
+
+Nanoscale metallic multilayered (NMM) composites possess ultra high strength (order of GPa) and high ductility, and exhibit high fatigue resistance. Their mechanical behavior is governed mainly by interface properties (coherent and/or incoherent interfaces), dislocation …
+
+The thermal, mechanical, dielectric, and dynamic mechanical properties of polymer nanocomposites strongly depend on nanoparticles' content and aspect ratio. In this study, poly (3-hydroxybutyrate-co-3-hydroxyvalerate)(PHBV)/cellulose nanowhisker (CNW) …
+
+We developed a 64-channel flexible polyimide ECoG electrode array and characterized its performance for long-term implantation, chronic cortical recording and high resolution mapping of surface-evoked potentials in awake rats. To achieve the longest possible …
+
+Many problems in global climate and Earth systems science require knowledge of regional-or global-scale distributions of glacier properties, which includes mass balance, ice velocity, flux, thickness, volume, and surface area, among others. With roughly 160,000 glaciers …
+
+We investigate the deformation behavior of bimetallic and trimetallic nanoscale multilayer metallic composites under biaxial loading using molecular dynamics. Three types of structures were studied:(a) Cu–Ni fcc/fcc bilayer,(b) Cu–Nb fcc/bcc bilayer, and (c) Ni–Cu …
+
+Since the 1950's there has been experimental evidence that structures on the sub-micron scale can exhibit strengths approaching the theoretical strength of the material. The general hypothesis taken is that if dislocation sources are missing, then the nucleation, rather than …
+
+Interfacial fracture energies of thin films may be calculated using many different techniques. Nanoindentation and stressed overlayers are by far the most common and more reliable of the testing techniques. They depend on mechanics-based models to calculate the interfacial …
+

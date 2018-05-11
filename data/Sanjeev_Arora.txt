@@ -1,0 +1,80 @@
+Proof verification and the hardness of approximation problems
+
+Computational complexity: a modern approach
+
+Probabilistic checking of proofs: A new characterization of NP
+
+Ledipasvir and sofosbuvir for previously treated HCV genotype 1 infection
+
+Polynomial time approximation schemes for Euclidean traveling salesman and other geometric problems
+
+Expander flows, geometric embeddings and graph partitioning
+
+Nitric oxide activity in the human coronary circulation. Impact of risk factors for coronary atherosclerosis.
+
+Polynomial time approximation schemes for Euclidean TSP and other geometric problems
+
+The hardness of approximate optima in lattices, codes, and systems of linear equations
+
+Polynomial time approximation schemes for dense instances of NP-hard problems
+
+Hardness of approximations
+
+The Multiplicative Weights Update Method: a Meta-Algorithm and Applications.
+
+Outcomes of treatment for hepatitis C virus infection by primary care providers
+
+Approximation schemes for Euclidean k-medians and related problems
+
+Improved low-degree testing and its applications
+
+Mesalamine capsules for treatment of active ulcerative colitis: results of a controlled trial.
+
+A guide for surveillance of patients with Barrett's esophagus.
+
+Computing a nonnegative matrix factorization--provably
+
+Learning topic models--going beyond SVD
+
+Nearly linear time approximation schemes for Euclidean TSP and other geometric problems
+
+We show that every language in NP has a probablistic verifier that checks membership proofs for it using logarithmic number of random bits and by examining a constant number of bits in the proof. If a string is in the language, then there exists a proof such that the verifier …
+
+This beginning graduate textbook describes both recent achievements and classical results of computational complexity theory. Requiring essentially no background apart from mathematical maturity, the book can be used as a reference for self-study for anyone …
+
+We give a new characterization of NP: the class NP contains exactly those languages L for which membership proofs (a proof that an input x is in L) can be verified probabilistically in polynomial time using logarithmic number of random bits and by reading sublogarithmic …
+
+Background Effective treatment for hepatitis C virus (HCV) genotype 1 infection in patients who have not had a sustained virologic response to prior interferon-based therapy represents an unmet medical need. Methods We conducted a phase 3, randomized, open …
+
+We present a polynomial time approximation scheme for Euclidean TSP in fixed dimensions. For every fixed c> 1 and given any n nodes in R 2, a randomized version of the scheme finds a (1+ 1/c)-approximation to the optimum traveling salesman tour in O (n (log n) O (c)) time …
+
+We give a O (&sqrt; log n)-approximation algorithm for the sparsest cut, edge expansion, balanced separator, and graph conductance problems. This improves the O (log n)-approximation of Leighton and Rao (1988). We use a well-known semidefinite relaxation …
+
+The bioavailability of nitric oxide (NO) in the human coro-nary circulation at rest and after acetylcholine (ACH)-in-duced vasodilation was investigated in 32 patients with angiographically normal coronary arteries. The effects of intra-coronary L-NG monomethyl …
+
+We present a polynomial time approximation scheme for Euclidean TSP in/spl Rfr//sup 2/. Given any n nodes in the plane and/spl epsiv/> 0, the scheme finds a (1+/spl epsiv/)-approximation to the optimum traveling salesman tour in time n/sup 0 (1//spl epsiv/)/. When …
+
+We prove the following about the Nearest Lattice Vector Problem (in anyl p norm), the Nearest Codeword Problem for binary codes, the problem of learning a halfspace in the presence of errors, and some other problems. 1. Approximating the optimum within any …
+
+We present a unified framework for designing polynomial time approximation schemes (PTASs) for “dense” instances of many N P-hard optimization problems, including maximum cut, graph bisection, graph separation, minimumk-way cut with and without specified …
+
+Google, Inc. (search). SIGN IN SIGN UP. Hardness of approximations. Authors: Sanjeev Arora, Carsten Lund.
+
+Algorithms in varied fields use the idea of maintaining a distribution over a certain set and use the multiplicative update rule to iteratively change these weights. Their analyses are usually very similar and rely on an exponential potential function. In this survey we present a …
+
+Background The Extension for Community Healthcare Outcomes (ECHO) model was developed to improve access to care for underserved populations with complex health problems such as hepatitis C virus (HCV) infection. With the use of video-conferencing …
+
+In t. he k-median problem we are given a set S of n points in a metric space and a positive integer k. We desire to locate k medians in space, such that the sum of the distances from each of the points of S to t. he nearest median is miniied. Thii paper gives an approximation …
+
+NP= PCP (log n, 1) and related results crucially depend upon the close connection between the probability with which a function passes a low degree test and the distance of this function to the nearest degree d polynomial. In this paper we study a test proposed by …
+
+The efficacy of a capsule formulation of mesalamine was assessed in 374 patients with mild to moderately active ulcerative colitis. Patients, stratified to pancolitis or left-sided disease, received either placebo or mesalamine at 1, 2, or 4 g daily for 8 wk. Efficacy was assessed …
+
+Objective: Barrett's esophagus (columnar metaplasia of the distal esophagus due to chronic gastroesophageal reflux) affects nearly 700,000 people in the United States, and carries a risk of esophageal adenocarcinoma that is 30-125 times that of an age-matched population …
+
+Abstract The Nonnegative Matrix Factorization (NMF) problem has a rich history spanning quantum mechanics, probability theory, data analysis, polyhedral combinatorics, communication complexity, demography, chemometrics, etc. In the past decade NMF has …
+
+Topic Modeling is an approach used for automatic comprehension and classification of data in a variety of settings, and perhaps the canonical application is in uncovering thematic structure in a corpus of documents. A number of foundational works both in machine …
+
+We present a randomized polynomial time approximation scheme for Euclidean TSP in R/sup 2/that is substantially more efficient than our earlier scheme (1996)(and the scheme of Mitchell (1996)). For any fixed c> 1 and any set of n nodes in the plane, the new scheme …
+

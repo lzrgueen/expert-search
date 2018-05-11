@@ -1,0 +1,80 @@
+Driven alloys
+
+Compositional patterning in systems driven by competing dynamics of different length scale
+
+Compositional patterning in immiscible alloys driven by irradiation
+
+Nanocrystalline TiAl powders synthesized by high-energy ball milling: effects of milling parameters on yield and contamination
+
+Shear induced chemical mixing in heterogeneous systems
+
+Kinetic model for equilibrium and nonequilibrium segregation in concentrated alloys under irradiation
+
+Vacancy-assisted phase separation with asymmetric atomic mobility: Coarsening rates, precipitate composition, and morphology
+
+Phase stability under irradiation in alloys with a positive heat of mixing: Effective thermodynamics description
+
+Microstructural stability of nanostructured Cu alloys during high-temperature irradiation
+
+Limits of hardness at the nanoscale: Molecular dynamics simulations
+
+Forced chemical mixing in immiscible alloys during severe plastic deformation at elevated temperatures
+
+Nanoscale patterning of chemical order induced by displacement cascades in irradiated alloys. I. A kinetic Monte Carlo study
+
+Grain boundary doping strengthens nanocrystalline copper alloys
+
+Interface sharpening and broadening during annealing of  multilayers: A kinetic Monte Carlo study
+
+Solute drag by vacancies in body-centered cubic alloys
+
+Yield strength in nanocrystalline Cu during high strain rate deformation
+
+Self-organized Cu–Ag nanocomposites synthesized by intermediate temperature ion-beam mixing
+
+Genetic programming for multitimescale modeling
+
+Nanocomposites stabilized by elevated-temperature ball milling of Ag50Cu50 powders: An atom probe tomographic study
+
+Stress-induced anisotropic diffusion in alloys: Complex Si solute flow near a dislocation core in Ni
+
+Skip to main content Illinois Manufacturing Research Asset Map Logo … 
+
+We study an alloy system where short-ranged, thermally driven diffusion competes with externally imposed, finite-ranged, athermal atomic exchanges, as is the case in alloys under irradiation. Using a Cahn-Hilliard-type approach, we show that when the range of these …
+
+Ion-beam mixing of immiscible alloys is viewed as a competing dynamic process, where irradiation-induced mixing opposes thermal decomposition. The external perturbation drives the system away from equilibrium, and in the long-time regime the system can exhibit phase …
+
+High-energy ball milling was employed to produce nanocrystalline Ti–Al powders. As sticking of the powders can be sufficiently severe to result in a near zero yield, emphasis was placed on varying milling conditions so as to increase the yield, while avoiding …
+
+Shear-induced mixing in heterogeneous Cu alloy systems was investigated by molecular dynamics simulation. Each system, which comprised a single spherical particle within a Cu matrix, was subjected to cyclical shearing events to high strains at 100 K. The particles …
+
+We propose a mean-field lattice rate model for describing the kinetics of equilibrium as well as irradiation-induced surface segregation in concentrated alloys. The kinetics and thermodynamics are treated in a mutually consistent way. The model treats the composition …
+
+We have investigated the coarsening kinetics and the morphology of precipitates after quenching a dilute binary alloy into its miscibility gap. Three-dimensional kinetic Monte Carlo simulations with a vacancy-diffusion mechanism are performed. The atomic diffusion …
+
+The alteration of phase stability due to the continuous production of forced atomic displacements, as is the case under irradiation, is studied. A simple kinetic model of a binary alloy exhibiting phase separation is investigated, and two limiting cases are considered …
+
+The stability of model nanostructured Cu 90 Mo 10 and Cu 90 W 10 alloys during irradiation with 1.8 MeV Kr+ at very high temperatures was investigated. Significant coarsening occurs only above∼ 0.6T m in Cu 90 Mo 10 and∼ 0.8T m in Cu 90 W 10 (T m is the melting point of …
+
+Contrary to the often reported findings from molecular dynamics computer simulation that metals soften as their grain sizes fall below 10–15 nm, we do not observe such softening in nanocrystalline specimens when they are first thermally relaxed. We offer a simple model …
+
+The forced chemical mixing of atoms in model immiscible alloys during severe plastic deformation (SPD) has been investigated as a function of temperature and the heat of mixing using molecular dynamics computer simulations. At low temperatures, A 75 B 25 …
+
+Dense displacement cascades produced by irradiation with energetic particles lead to the formation of disordered zones in chemically ordered alloys. At temperatures below the order-disorder transition, these disordered zones, whose sizes range from a few to several …
+
+Nanoindentation hardness measurements were performed on nanocrystalline (nc-) Cu alloys to test recent molecular dynamics predictions that (i) solute segregation to grain boundaries can lead to significant strengthening and (ii) solutes with large size mismatch …
+
+Abstract Kinetic Monte Carlo simulations are performed to study the evolution of interfaces in a model alloy system whose parameters are chosen so as to reproduce the main features of the Cu− Ni system, in particular the asymmetry of diffusion coefficients. Recently, Erdélyi et …
+
+Transport coefficients, the elements of the so-called Onsager matrix, are essential quantities for modeling solid-state kinetics controlled by diffusion. Focusing on diffusion in binary alloys with a body-centered cubic crystal structure, we investigate the drag of solute atoms by …
+
+Molecular dynamics simulations are used to study the yield strength of thermally annealed nanocrystalline Cu samples. For strain rates of 1× 10 10 and 1× 10 9 s− 1, the observed yield strength scales with the fractional number of grain boundary (GB) atoms. This …
+
+We perform an investigation of ion-beam mixing in the immiscible system Ag–Cu based on cross-sectional transmission electron microscopy. Multilayered samples consisting of ten periods of (6.7 nm Cu/11.2 nm Ag) are irradiated at temperatures ranging from 25 to 225° C …
+
+A bottleneck for multitimescale thermally activated dynamics is the computation of the potential energy surface. We explore the use of genetic programming (GP) to symbolically regress a mapping of the saddle-point barriers from only a few calculated points via …
+
+Ag 50 Cu 50 alloys were prepared by high-energy ball milling at 393, 423, and 453 K. Atom probe tomography was used to characterize the microstructure and the local composition of the milled powders. The dynamical competition between the atomic mixing forced by milling …
+
+Stress introduces anisotropy in the transport coefficients in materials, affecting diffusion. Using first-principles quantum-mechanical methods for activation barriers of atomic jumps, combined with the extended self-consistent mean-field theory to compute transport …
+

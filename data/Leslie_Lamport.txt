@@ -1,0 +1,80 @@
+Time, clocks, and the ordering of events in a distributed system
+
+The Byzantine generals problem
+
+Distributed snapshots: Determining global states of distributed systems
+
+LaTeX: A Document Preparation System, 2/e
+
+Password authentication with insecure communication
+
+How to make a multiprocessor computer that correctly executes multiprocess progranm
+
+The temporal logic of actions
+
+The part-time parliament
+
+Reaching agreement in the presence of faults
+
+Proving the correctness of multiprocess programs
+
+The existence of refinement mappings
+
+On interprocess communication
+
+Paxos made simple
+
+Specifying systems: the TLA+ language and tools for hardware and software engineers
+
+The parallel execution of do loops
+
+On-the-fly garbage collection: An exercise in cooperation
+
+A new solution of Dijkstra's concurrent programming problem
+
+Proving liveness properties of concurrent programs
+
+SIFT: Design and analysis of a fault-tolerant computer for aircraft control
+
+Specifying concurrent program modules
+
+The concept of one event happening before another in a distributed system is examined, and is shown to define a partial ordering of the events. A distributed algorithm is given for synchronizing a system of logical clocks which can be used to totally order the events. The …
+
+Reliable computer systems must handle malfunctioning components that give conflicting information to different parts of the system. This situation can be expressed abstractly in terms of a group of generals of the Byzantine army camped with their troops around an …
+
+This paper presents an algorithm by which a process in a distributed system determines a global state of the system during a computation. Many problems in distributed systems can be cast in terms of the problem of detecting global states. For instance, the global state …
+
+None
+
+A method of user password authentication is described which is secure even if an intruder can read the system's data, and can tamper with or eavesdrop on the communication between the user and the system. The method assumes a secure one-way encryption …
+
+Many large sequential computers execute operations in a different order than is specified by the program. A correct execution is achieved if the results produced are the same as would be produced by executing the program steps in order. For a multiprocessor computer, such a …
+
+The temporal logic of actions (TLA) is a logic for specifying and reasoning about concurrent systems. Systems and their properties are represented in the same logic, so the assertion that a system meets its specification and the assertion that one system implements another …
+
+Recent archaeological discoveries on the island of Paxos reveal that the parliament functioned despite the peripatetic propensity of its part-time legislators. The legislators maintained consistent copies of the parliamentary record, despite their frequent forays from …
+
+The problem addressed here concerns a set of isolated processors, some unknown subset of which may be faulty, that communicate only by means of two-party messages. Each nonfaulty processor has a private value of information that must be communicated to each …
+
+The inductive assertion method is generalized to permit formal, machine-verifiable proofs of correctness for multiprocess programs. Individual processes are represented by ordinary flowcharts, and no special synchronization mechanisms are assumed, so the method can be …
+
+Refinement mappings are used to prove that a lower-level specification correctly implements a higher-level one. We consider specifications consisting of a state machine (which may be infinite-state) that specifies safety requirements, and an arbitrary supplementary property …
+
+Interprocess communication is studied without assuming any lower-level communication primitives. Three classes of communication registers are considered, and several constructions are given for implementing one class of register with a weaker class. The …
+
+The Paxos algorithm for implementing a fault-tolerant distributed system has been regarded as difficult to understand, perhaps because the original presentation was Greek to many readers [5]. In fact, it is among the simplest and most obvious of distributed algorithms. At its …
+
+This book will teach you how to write specifications of computer systems, using the language TLA+. It's rather long, but most people will read only Part I, which comprises the first 83 pages. That part contains all that most engineers need to know about writing specifications; …
+
+FORTRAN DO loop which is used is that the range of values assumed by the index variable is known upon entry to the loop. Thus, most but not all ALGOL for loops can be handled. The analysis is performed from the standpoint of a compiler for a multiprocessor computer. Two general methods …
+
+As an example of cooperation between sequential processes with very little mutual interference despite frequent manipulations of a large shared data space, a technique is developed which allows nearly all of the activity needed for garbage detection and collection …
+
+It has been shown that the existence of a a-coloration of a particular graph is a necessary and sufficient condi- tion for the existence of a solution to the class-teacher timetable problem with unavailability constraints and preassigned meetings. The knowledge of this necessary and sufficient …
+
+A liveness property asserts that program execution eventually reaches some desirable state. While termination has been studied extensively, many other liveness properties are important for concurrent programs. A formal proof method, based on temporal logic, for …
+
+SIFT (Software Implemented Fault Tolerance) is an ultrareliable computer for critical aircraft control applications that achieves fault tolerance by the replication of tasks among processing units. The main processing units are off-the-shelf minicomputers, with standard …
+
+A method for specifying program modules in a concurrent program is described. It is based upon temporal logic, but uses new kinds of temporal assertions to make the specifications simpler and easier to understand. The semantics of the specifications is described …
+

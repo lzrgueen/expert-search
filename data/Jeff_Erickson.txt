@@ -1,0 +1,80 @@
+Geometric range searching and its relatives
+
+Indexing moving points
+
+EMG analysis of lower extremity muscle recruitment patterns during an unloaded squat.
+
+Raising roofs, crashing cycles, and playing pool: Applications of a data structure for finding pairwise interactions
+
+Greedy optimal homotopy and homology generators
+
+Optimally cutting a surface into a disk
+
+Attempts to promote residential water conservation with educational, behavioral and engineering strategies
+
+Output-sensitive algorithms for computing nearest-neighbour decision boundaries
+
+Iterated nearest neighbors and finding minimal polytopes
+
+Efficient searching with linear constraints
+
+Minimum-cost coverage of point sets by disks
+
+Kinetic collision detection between two simple polygons
+
+Algorithmic issues in modeling motion
+
+Kinetic binary space partitions for intersecting segments and disjoint triangles
+
+Lower Bounds for Linear Satisfiability Problems.
+
+New lower bounds for Hopcroft's problem
+
+Better lower bounds on detecting affine and spherical degeneracies
+
+Tightening nonsimple paths and cycles on surfaces
+
+Spacetime meshing with adaptive refinement and coarsening
+
+Separation-sensitive collision detection for convex objects
+
+A typical range-searching problem has the following form: Pre-process a set S of points in R* so that the points of S lying inside a query region can be reported or counted quickly. We survey the known techniques and data structures for range searching and describe their …
+
+We propose three indexing schemes for storing a set S of N points in the plane, each moving along a linear trajectory, so that any query of the following form can be answered quickly: Given a rectangle R and a real value t, report all K points of S that lie inside R at time t. We …
+
+During an unloaded squat, hamstring and quadriceps co-contraction has been documented and explained via a co-contraction hypothesis. This hypothesis suggests that the hamstrings provide a stabilizing force at the knee by producing a posteriorly-directed force on the tibia to …
+
+The straight skeleton of a polygon is a variant of the medial axis introduced by Aichholzer et al., defined by a shrinking process in which each edge of the polygon moves inward at a fixed rate. We construct the straight skeleton of an n-gon with r reflex vertices in time O (n 1+ …
+
+We describe simple greedy algorithms to construct the shortest set of loops that generates either the fundamental group (with a given basepoint) or the first homology group (over any fixed coefficient field) of any oriented 2-manifold. In particular, we show that the shortest set …
+
+We consider the problem of cutting a subset of the edges of a polyhedral manifold surface, possibly with boundary, to obtain a single topological disk, minimizing either the total number of cut edges or their total length. We show that this problem is NP-hard in general …
+
+The water meters of 129 residences were read for 70 consecutive days. After five weeks of baseline, state-of-the-art education, feedback, and engineering interventions were applied according to the factorial design: 2 (Education versus No Education)× 2 (Daily Consumption …
+
+Given a set R of red points and a set B of blue points, the nearest-neighbour decision rule classifies a new point q as red (respectively, blue) if the closest point to q in R⋃ B comes from R (respectively, B). This rule implicitly partitions space into a red set and a blue set that …
+
+We introduce a new method for finding several types of optimal k-point sets, minimizing perimeter, diameter, circumradius, and related measures, by testing sets of the O (k) nearest neighbors to each point. We argue that this is better in a number of ways than previous …
+
+We show how to preprocess a set S of points in R d into an external memory data structure that efficiently supports linear-constraint queries. Each query is in the form of a linear constraint xd⩽ a 0+∑ d− 1 i= 1 aixi; the data structure must report all the points of S that …
+
+We consider a class of geometric facility location problems in which the goal is to determine a set X of disks given by their centers (tj) and radii (rj) that cover a given set of demand points Y∈ R 2 at the smallest possible cost. We consider cost functions of the form Ε jf (rj) …
+
+We design a kinetic data structure for detecting collisions between two simple polygons in motion. In order to do so, we create a planar subdivision of the free space between the two polygons, called the external relative geodesic triangulation, which certifies their …
+
+This article is a survey of research areas in which motion plays a pivotal role. The aim of the article is to review current approaches to modeling motion together with related data structures and algorithms, and to summarize the challenges that lie ahead in producing a …
+
+We describe randomized algorithms for efficiently maintaining a binary space partition of continuously moving, possibly intersecting, line segments in the plane, and of continuously moving but disjoint triangles in space. Our two-dimensional BSP has depth O (logn) and size …
+
+We prove an Q (n'v/'2l) lower bound for the following problem: For some fixed linear equation in r variables, given a set of n real numbers, do any r of them satisfy the equation? Our lower bound holds in a restricted linear decision tree model, in which each decision is …
+
+We establish new lower bounds on the complexity of the following basic geometric problem, attributed to John Hopcroft: Given a set of n points and m hyperplanes in R^ d, is any point contained in any hyperplane? We define a general class of partitioning algorithms, and …
+
+We show that in the worst case, Ω (nd) sidedness queries are required to determine whether a set of n points in ℝ d is affinely degenerate, ie, whether it contains d+ 1 points on a common hyperplane. This matches known upper bounds. We give a straightforward …
+
+We describe algorithms to compute the shortest path homotopic to a given path, or the shortest cycle freely homotopic to a given cycle, on an orientable combinatorial surface. Unlike earlier results, our algorithms do not require the input path or cycle to be simple …
+
+We propose a new algorithm for constructing finite-element meshes suitable for spacetime discontinuous Galerkin solutions of linear hyperbolic PDEs. Given a triangular mesh of some planar domain Ω and a target time value T, our method constructs a tetrahedral mesh of the …
+
+We develop a class of new kinetic data structures for collision detection between moving convex polytopes; the performance of these structures is sensitive to the separation of the polytopes during their motion. For two convex polygons in the plane, let $ D $ be the …
+

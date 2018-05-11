@@ -1,0 +1,80 @@
+When is a Schubert variety Gorenstein?
+
+A combinatorial rule for (co) minuscule Schubert calculus
+
+A jeu de taquin theory for increasing tableaux, with applications to K-theoretic Schubert calculus
+
+Gröbner geometry of vertex decompositions and of flagged tableaux
+
+Governing singularities of Schubert varieties
+
+Genome sequencing in microfabricated high-density picolitre reactors
+
+Stable Grothendieck polynomials and K-theoretic factor sequences
+
+The genome sequence of Drosophila melanogaster
+
+Tree-like properties of cycle factorizations
+
+Schubert polynomials and quiver formulas
+
+Patch ideals and Peterson varieties
+
+Metabolomic profiles delineate potential role for sarcosine in prostate cancer progression
+
+What is a young tableau
+
+A Gröbner basis for Kazhdan-Lusztig ideals
+
+Critique of Hirsch's citation index: A combinatorial Fermi problem
+
+Multiplicity-free Schubert calculus
+
+Longest increasing subsequences, Plancherel-type measure and the Hecke insertion algorithm
+
+Architecture of the human regulatory network derived from ENCODE data
+
+Degree bounds in quantum Schubert calculus
+
+Clinical practice parameters for hemodynamic support of pediatric and neonatal septic shock: 2007 update from the American College of Critical Care …
+
+A (normal) variety is Gorenstein if it is Cohen–Macaulay and its canonical sheaf is a line bundle. This property is a weakening of smoothness which implies that a variety behaves like a smooth one for various algebro-geometric purposes. We give a combinatorial …
+
+We prove a root system uniform, concise combinatorial rule for Schubert calculus of minuscule and cominuscule flag manifolds G/P (the latter are also known as compact Hermitian symmetric spaces). We connect this geometry to the poset combinatorics of …
+
+We introduce a theory of jeu de taquin for increasing tableaux, extending fun- damental work of Schützenberger (1977) for standard Young tableaux. We ap- ply this to give a new combinatorial rule for the K-theory Schubert calculus of Grassmannians via K-theoretic jeu de taquin, providing …
+
+We relate a classic algebro-geometric degeneration technique, dating at least to Hodge 1941 (J. London Math. Soc. 16: 245–255), to the notion of vertex decompositions of simplicial complexes. The good case is when the degeneration is reduced, and we call this …
+
+We present a combinatorial and computational commutative algebra methodology for studying singularities of Schubert varieties of flag manifolds. We define the combinatorial notion of interval pattern avoidance. For “reasonable” invariants P of singularities, we …
+
+The proliferation of large-scale DNA-sequencing projects in recent years has driven a search for alternative methods to reduce time and cost. Here we describe a scalable, highly parallel sequencing system with raw throughput significantly greater than that of state-of-the …
+
+We formulate a nonrecursive combinatorial rule for the expansion of the stable Grothendieck polynomials of Fomin and Kirillov (Proc Formal Power Series Alg Comb, 1994) in the basis of stable Grothendieck polynomials for partitions. This gives a common generalization, as …
+
+The fly Drosophila melanogaster is one of the most intensively studied organisms in biology and serves as a model system for the investigation of many developmental and cellular processes common to higher eukaryotes, including humans. We have determined the …
+
+We provide a bijection between the set of factorizations, that is, ordered (n− 1)-tuples of transpositions in S n whose product is (12… n), and labelled trees on n vertices. We prove a refinement of a theorem of J. Dénes (1959, Publ. Math. Inst. Hungar. Acad. Sci. 4, 63–71) …
+
+Fulton's universal Schubert polynomials [F3] represent degeneracy loci for morphisms of vector bundles with rank conditions coming from a permutation. The quiver formula of Buch and Fulton [BF] expresses these polynomials as an integer linear combination of products of …
+
+Patch ideals encode neighbourhoods of a variety in GL n/B. For Peterson varieties we determine generators for these ideals and show they are complete intersections, and thus Cohen–Macaulay and Gorenstein. Consequently, we—combinatorially describe the singular …
+
+Multiple, complex molecular events characterize cancer development and progression 1, 2. Deciphering the molecular networks that distinguish organ-confined disease from metastatic disease may lead to the identification of critical biomarkers for cancer invasion and disease …
+
+Young tableaux are ubiquitous combinatorial objects making important and inspiring appearances in representation theory, geometry, and algebra. They naturally arise in the study of symmetric functions, representation theory of the symmetric and complex general …
+
+{\it Kazhdan-Lusztig ideals}, a family of generalized determinantal ideals investigated in [Woo-Yong~'08], provide an explicit choice of coordinates and equations encoding a neighborhood of a torus-fixed point of a Schubert variety on a type $ A $ flag variety. Our …
+
+For example, Google Scholar and the Web of Science highlight the h-index, among other metrics such as total citation count, in their profile summaries. An enticing point made by Hirsch is that the h-index is an easy and useful supplement to a citation count (Ncitations) …
+
+1.1. The main result. Let Gr(ℓ, Cn) denote the Grassmannian of ℓ-dimensional subspaces in Cn. The cohomology ring H*(Gr(ℓ, Cn), Z) has an additive basis of Schubert classes σλ, indexed by Young diagrams λ = (λ1 ≥ λ2 ≥ ... ≥ λℓ ≥ 0) contained in the ℓ × k rectangle where k = n …
+
+We define and study the Plancherel–Hecke probability measure on Young diagrams; the Hecke algorithm of Buch–Kresch–Shimozono–Tamvakis–Yong is interpreted as a polynomial-time exact sampling algorithm for this measure. Using the results of Thomas …
+
+Transcription factors bind in a combinatorial fashion to specify the on-and-off states of genes; the ensemble of these binding events forms a regulatory network, constituting the wiring diagram for a cell. To examine the principles of the human transcriptional regulatory …
+
+Fulton and Woodward have recently identified the smallest degree of $ q $ that appears in the expansion of the product of two Schubert classes in the (small) quantum cohomology ring of a Grassmannian. We present a combinatorial proof of this result, and provide an …
+
+Background The Institute of Medicine calls for the use of clinical guidelines and practice parameters to promote “best practices” and to improve patient outcomes. Objective 2007 update of the 2002 American College of Critical Care Medicine Clinical Guidelines for …
+

@@ -1,0 +1,80 @@
+Unique games on expanding constraint graphs are easy
+
+Spectral algorithms for unique games
+
+Subgraph sparsification and nearly optimal ultrasparsifiers
+
+High Throughput Data Center Topology Design.
+
+How to play unique games against a semi-random adversary: Study of semi-random models of unique games
+
+Multisection in the stochastic block model using semidefinite programming
+
+Making classical honest verifier zero knowledge protocols secure against quantum attacks
+
+Measuring and understanding throughput of network topologies
+
+Playing random and expanding unique games
+
+Measuring throughput of data center network topologies
+
+Sparsest cut on quotients of the hypercube
+
+Playing unique games using graph spectra
+
+Dimension-free L2 maximal inequality for spherical means in the hypercube
+
+On parallel composition of zero-knowledge proofs with black-box quantum simulators
+
+On the Expansion of Group-Based Lifts
+
+Small lifts of expander graphs are expanding
+
+A side-by-side comparison of T cell reactivity to fifty-nine Mycobacterium tuberculosis antigens in diverse populations from five continents
+
+Approximation of non-boolean 2CSP
+
+Invertibility and largest eigenvalue of symmetric matrix signings
+
+Dimension-Free -Maximal Inequalities in
+
+ABSTRACT We present an efficient algorithm to find a good solution to the Unique Games problem when the constraint graph is an expander. We introduce a new analysis of the standard SDP in this case that involves correlations among distant vertices. It also leads to a parallel repetition …
+
+We give a new algorithm for Unique Games which is based on purely spectral techniques, in contrast to previous work in the area, which relies heavily on semidefinite programming (SDP). Given a highly satisfiable instance of Unique Games, our algorithm is able to recover …
+
+We consider a variation of the spectral sparsification problem where we are required to keep a subgraph of the original graph. Formally, given a union of two weighted graphs G and W and an integer k, we are asked to find a k-edge weighted graph W k such that G+ W k is a …
+
+With high throughput networks acquiring a crucial role in supporting data-intensive applications, a variety of data center network topologies have been proposed to achieve high capacity at low cost. While this work explores a large number of design points, even in …
+
+In this paper, we study the average case complexity of the Unique Games problem. We propose a semi-random model, in which a unique game instance is generated in several steps. First an adversary selects a completely satisfiable instance of Unique Games, then …
+
+We consider the problem of identifying underlying community-like structures in graphs. Toward this end, we study the stochastic block model (SBM) on k-clusters: a random model on n= km vertices, partitioned in k equal sized clusters, with edges sampled independently …
+
+We show that any problem that has a classical zero-knowledge protocol against the honest verifier also has, under a reasonable condition, a classical zero-knowledge protocol which is secure against all classical and quantum polynomial time verifiers, even cheating ones …
+
+High throughput is of particular interest in data center and HPC networks. Although myriad network topologies have been proposed, a broad head-to-head comparison across topologies and across traffic patterns is absent, and the right way to compare worst-case …
+
+In this work, we present a spectral algorithm that finds good assignments for instances of Unique Games when the underlying graph has some significant expansion and the constraints are arbitrary Γ-max-lin. We first analyze the behavior of the SDP by Feige and …
+
+High throughput is a fundamental goal of network design. While myriad network topologies have been proposed to meet this goal, particularly in data center and HPC networking, a consistent and accurate method of evaluating a design's throughput performance and …
+
+We present a simple construction and analysis of an Ω (log log N) integrality gap for the well-known Sparsest Cut semi-definite program (SDP). This holds for the uniform demands version (ie edge expansion). The same quantitative gap was proved earlier by Devanur …
+
+None
+
+We establish the maximal inequality claimed in the title. In combinatorial terms this has the implication that for sufficiently small ε> 0, for all n, any marking of an ε fraction of the vertices of the n-dimensional hypercube necessarily leaves a vertex x such that marked vertices are …
+
+Let L be a language decided by a constant-round quantum Arthur-Merlin (QAM) protocol with negligible soundness error and all but possibly the last message being classical. We prove that if this protocol is zero knowledge with a black-box, quantum simulator S, then L in …
+
+A $ k $-lift of an $ n $-vertex base graph $ G $ is a graph $ H $ on $ n\times k $ vertices, where each vertex $ v $ of $ G $ is replaced by $ k $ vertices $ v_1,\cdots {}, v_k $ and each edge $(u, v) $ in $ G $ is replaced by a matching representing a bijection $\pi_ {uv} $ so that …
+
+A k-lift of an n-vertex base-graph G is a graph H on n× k vertices, where each vertex of G is replaced by k vertices and each edge (u, v) in G is replaced by a matching representing a bijection πuv so that the edges of H are of the form ((u, i),(v, πuv (i))). H is a (uniformly) …
+
+We compared T cell recognition of 59 prevalently recognized Mycobacterium tuberculosis (MTB) antigens in individuals latently infected with MTB (LTBI), and uninfected individuals with previous BCG vaccination, from nine locations and populations with different HLA …
+
+We develop a polynomial time Ω (1/R log R) approximate algorithm for Max 2CSP-R, the problem where we are given a collection of constraints, each involving two variables, where each variable ranges over a set of size R, and we want to find an assignment to the …
+
+The spectra of signed matrices have played a fundamental role in social sciences, graph theory, and control theory. In this work, we investigate the computational problems of identifying symmetric signings of matrices with natural spectral properties. Our results are …
+
+For $ m\geq 2$, let $(\mathbb {Z} _ {m+ 1}^ N,|\cdot|) $ denote the group equipped with the so-called $ l^ 0$ metric,\[| y|=\left|\big (y (1),\dots, y (N)\big)\right|:=|\{1\leq i\leq N: y (i)\neq 0\}|,\] and define the $ L^ 1$-normalized indicator of the $ r $-sphere,\[\sigma_r:=\frac {1} …
+

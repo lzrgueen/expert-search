@@ -1,0 +1,80 @@
+Distributed snapshots: Determining global states of distributed systems
+
+Parallel program design
+
+Open, closed, and mixed networks of queues with different classes of customers
+
+Distributed simulation: A case study in design and verification of distributed programs
+
+Asynchronous distributed simulation via a sequence of parallel computations
+
+A comparison of list schedules for parallel processing systems
+
+Proofs of networks of processes
+
+Computer systems performance modeling
+
+The drinking philosophers problem
+
+Distributed deadlock detection
+
+Parametric analysis of queuing networks
+
+How processes learn
+
+Reconfiguration system and method for high-speed mesh connected local area network
+
+Optimal scheduling strategies in a multiprocessor system
+
+FORTRAN MA Language for Modular Parallel Programming
+
+Linearizer: A heuristic algorithm for queueing network models of computing systems
+
+Product form and local balance in queueing networks
+
+CC++: A declarative concurrent object oriented programming notation
+
+Approximate analysis of general queuing networks
+
+Analytic models for rollback and recovery strategies in data base systems
+
+This paper presents an algorithm by which a process in a distributed system determines a global state of the system during a computation. Many problems in distributed systems can be cast in terms of the problem of detecting global states. For instance, the global state …
+
+Successful software lasts for over 25 years. We cannot predict what sorts of architectures will be prevalent in the next quarter century. We should expect to be called upon to modify our programs to keep pace with changes in archi- tecture. Oan we design programs that are likely to be efficient …
+
+The joint equihbrmm distribution of queue sizes in a network of queues containing N service centers and R classes of customers m derived The equilibrium state probabillUes have the general form P (S)= Cd (S) fl (xl) f2 (x2). fN (x~), where S is the state of the system, x, is the …
+
+The problem of system simulation is typically solved in a sequential manner due to the wide and intensive sharing of variables by all parts of the system. We propose a distributed solution where processes communicate only through messages with their neighbors; there …
+
+An approach to carrying out asynchronous, distributed simulation on multiprocessor messagepassing architectures is presented. This scheme differs from other distributed simulation schemes because (1) the amount of memory required by all processors together …
+
+The problem of scheduling two or more processors to minimize the execution time of a program which consists of a set of partially ordered tasks is studied. Cases where task execution times are deterministic and others in which execution times are random variables …
+
+We present a proof method for networks of processes in which component processes communicate exclusively through messages. We show how to construct proofs of invariant properties which hold at all times during network computation, and terminal properties which …
+
+None
+
+The problem of resolving conflicts between processes in distributed systems is of practical importance. A conflict between a set of processes must be resolved in favor of some (usually one) process and against the others: a favored process must have some property that …
+
+Distributed deadlock models are presented for resource and communication deadlocks. Simple distributed algorithms for detection of these deadlocks are given. We show that all true deadlocks are detected and that no false deadlocks are reported. In our algorithms, no …
+
+We consider a queuing network with M exponential service stations and with N customers. We study the behavior of a subsystem σ, which has a single node as input and a single node as output, when the subsystem parameters are varied. An “equivalent” network is …
+
+Jayadev Misra is a professor in the Department of Com- puter Sciences at the Univer- sity of Texas at Austin. His primary research interests are in the area of distributed com- puting: specij~cation and de- sign of networks of asyn- chronous components. He be- lieves that sound …
+
+A mesh connected local area network provides automatic packet switching and routing between host computers coupled to the network. The network has a multiplicity of cut-through, nonblocking switches, each capable of simultaneously routing a multiplicity of data …
+
+This paper describes a set of techniques that can be used to optimally schedule a sequence of interrelated computational tasks on a multiprocessor computer system. Using a directed graph model to represent a computational process, two basic problems are solved here …
+
+FORTRAN M is a small set of extensions to FORTRAN 77 that supports a modular approach to the design of message-passing programs. It has the following features.(1) Modularity. Programs are constructed by using explicitly declared communication channels to plug …
+
+The topic of this special issue is Solution Techniques for Queueing Network Models. There are three papers, each describing a different approach to the solution of queueing networks. The paper by Zahorjan et al. was selected as the best paper of the SIGMETRICS Symposium on Measurement …
+
+A new property of queueing discipline, station balance, seems to explain why some disciplines yield product form solutions for queues and networks using nonexponential service disciplines and other disciplines do not. A queueing discipline satisfies station …
+
+CC++ is Compositional C++, a parallel object-oriented notation that consists of C++ with six extensions. The goals of the CC++ project are to provide a theory, notation and tools for developing reliable scalable concurrent program libraries, and to provide a framework for …
+
+An approximate iterative technique for the analysis of complex queuing networks with general service times is presented. The technique is based on an application of Norton's theorem from electrical circuit theory to queuing networks which obey local balance. The …
+
+Rollback and recovery (RR) is a method of enchancing the reliability of file or data base systems. At certain points in time, called checkpoints, a copy of the data or files is made on tape (or other storage devices). A chronological record is kept of all transactions which …
+
